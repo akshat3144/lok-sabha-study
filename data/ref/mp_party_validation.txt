@@ -1,0 +1,38 @@
+== Coverage of question askers (automatic = party assigned AND not flagged for review) ==
+LS  askers  resolved%  confident%  mentions  mentions-resolved%  records  records-all-askers-resolved%  ambiguous
+13    480   100.0%   100.0%    99777   100.0%         73324   100.0%  0
+14    483   100.0%   100.0%    97328   100.0%         66371   100.0%  1
+15    468   100.0%   100.0%   142153   100.0%         79400   100.0%  1
+16    507   100.0%   100.0%   142529   100.0%         79149   100.0%  3
+17    505   100.0%   100.0%   101721   100.0%         60549   100.0%  0
+18    467   100.0%   100.0%    57092   100.0%         34720   100.0%  0
+
+== Member-level coverage (every MP of the official sansad list per LS; independent of which MPs asked) ==
+LS  members  party-found%  confident%  nominated  by-election-members  ambiguous-links
+13    568      98.9%      96.5%      2        20      0
+14    584      99.3%      97.6%      2        39      1
+15    557      99.8%      97.5%      2        15      0
+16    573     100.0%      98.1%      2        29      2
+17    559     100.0%      98.6%      0        15      0
+18    544     100.0%      99.4%      0         2      0
+
+== Known switchers (party AT THE TIME), member-level ==
+  LS13 Jyotiraditya Scindia expect ['INC'] -> OK  [('Jyotiraditya M Scindia', 'INC', 'bye', '2002', 'Guna')]
+  LS14 Jyotiraditya Scindia expect ['INC'] -> OK  [('Jyotiraditya M Scindia', 'INC', 'general', '2004-05-13', 'Guna')]
+  LS15 Jyotiraditya Scindia expect ['INC'] -> OK  [('Jyotiraditya M Scindia', 'INC', 'general', '2009-05-16', 'Guna')]
+  LS18 Jyotiraditya Scindia expect ['BJP'] -> OK  [('Jyotiraditya M Scindia', 'BJP', 'general', '2024-06-04', 'Guna')]
+  LS13 Kirti Azad  expect ['BJP'] -> OK  [('Azad Kirti Jha', 'BJP', 'general', '1999-10-06', 'Darbhanga')]
+  LS15 Kirti Azad  expect ['BJP'] -> OK  [('Azad Kirti Jha', 'BJP', 'general', '2009-05-16', 'Darbhanga')]
+  LS16 Kirti Azad  expect ['BJP'] -> OK  [('Azad Kirti Jha', 'BJP', 'general', '2014-05-16', 'Darbhanga')]
+  LS15 Shatrughan Sinha expect ['BJP'] -> OK  [('Shatrughan Prasad Sinha', 'BJP', 'general', '2009-05-16', 'Patna Sahib')]
+  LS16 Shatrughan Sinha expect ['BJP'] -> OK  [('Shatrughan Prasad Sinha', 'BJP', 'general', '2014-05-16', 'Patna Sahib')]
+  LS17 Shatrughan Sinha expect ['AITC'] -> OK  [('Shatrughan Prasad Sinha', 'AITC', 'bye', '2022-04-16', 'Asansol')]
+  LS18 Shatrughan Sinha expect ['AITC'] -> OK  [('Shatrughan Prasad Sinha', 'AITC', 'general', '2024-06-04', 'Asansol')]
+  LS15 Suvendu Adhikari expect ['AITC'] -> OK  [('Suvendu Adhikari', 'AITC', 'general', '2009-05-16', 'Tamluk')]
+  LS16 Suvendu Adhikari expect ['AITC'] -> OK  [('Suvendu Adhikari', 'AITC', 'general', '2014-05-16', 'Tamluk')]
+  LS17 Babul Supriyo expect ['BJP'] -> OK  [('Babul Supriyo', 'BJP', 'general', '2019-05-23', 'Asansol')]
+  LS17 Kunwar Danish Ali expect ['BSP'] -> OK  [('Kunwar Danish Ali', 'BSP', 'general', '2019-05-23', 'Amroha')]
+  LS15 Ravneet Singh Bittu expect ['INC'] -> OK  [('Ravneet Singh', 'INC', 'general', '2009-05-16', 'Anandpur Sahib')]
+  LS16 Ravneet Singh Bittu expect ['INC'] -> OK  [('Ravneet Singh', 'INC', 'general', '2014-05-16', 'Ludhiana')]
+  LS17 Ravneet Singh Bittu expect ['INC'] -> OK  [('Ravneet Singh', 'INC', 'general', '2019-05-23', 'Ludhiana')]
+  switcher failures: 0/18
