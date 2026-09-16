@@ -1,0 +1,17 @@
+{
+  "k": 50,
+  "seed": 20261017,
+  "tfidf": {
+    "min_df": 50,
+    "max_df": 0.3,
+    "max_features": 30000,
+    "sublinear_tf": true
+  },
+  "svd_components": 100,
+  "kmeans_n_init": 3,
+  "text": "subject + question_text[:1500], lowercased",
+  "sklearn": "1.8.0",
+  "n_questions": 393501,
+  "qid_hash": "2fc716137a742869",
+  "inertia": 245116.84375
+}
