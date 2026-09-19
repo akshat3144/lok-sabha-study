@@ -1,0 +1,8 @@
+# M2 (Gemini labelling) dependencies. Python 3.12.
+pandas
+pyarrow
+requests
+google-genai>=1.64   # Vertex AI via vertexai=True + Application Default Credentials; installed here: 1.64.0
+pytest               # tests only
+# Not a Python dependency: the Google Cloud CLI (`gcloud`) must be on PATH; it is used for GCS upload/download
+# (`gcloud storage cp/ls`) and for `gcloud auth application-default login`.
