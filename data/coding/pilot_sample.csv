@@ -1,0 +1,51 @@
+qid,sample,stratum,ls,qtype,ministry,ministry_group,boilerplate_flag,m1_quintile,n_parts,in_estimate,N_stratum,n_stratum,weight,coders,seed
+ls13-s6-S-493-20010420,pilot,ls13|boiler,13,starred,FINANCE,other,True,0,2,True,22548,2,11274.0,coder1;coder2,20261017
+ls13-s12-S-229-20030306,pilot,ls13|other,13,starred,PETROLEUM AND NATURAL GAS,other,False,0,3,True,47042,7,6720.285714285715,coder1;coder2,20261017
+ls13-s4-S-457-20000825,pilot,ls13|other,13,starred,FINANCE,other,False,0,4,True,47042,7,6720.285714285715,coder1;coder2,20261017
+ls13-s8-U-3350-20011211,pilot,ls13|boiler,13,unstarred,HOME AFFAIRS,security,True,0,2,True,22548,2,11274.0,coder1;coder2,20261017
+ls13-s11-U-1354-20021127,pilot,ls13|other,13,unstarred,COMMUNICATIONS AND INFORMATION TECHNOLOGY,other,False,0,4,True,47042,7,6720.285714285715,coder1;coder2,20261017
+ls13-s12-U-3318-20030313,pilot,ls13|other,13,unstarred,PETROLEUM AND NATURAL GAS,other,False,0,2,True,47042,7,6720.285714285715,coder1;coder2,20261017
+ls13-s13-U-1819-20030801,pilot,ls13|other,13,unstarred,FINANCE,other,False,0,5,True,47042,7,6720.285714285715,coder1;coder2,20261017
+ls13-s3-U-7406-20000512,pilot,ls13|other,13,unstarred,COMMERCE AND INDUSTRY,other,False,0,3,True,47042,7,6720.285714285715,coder1;coder2,20261017
+ls13-s7-U-2287-20010806,pilot,ls13|other,13,unstarred,LABOUR,other,False,0,3,True,47042,7,6720.285714285715,coder1;coder2,20261017
+ls14-s7-S-489-20060518,pilot,ls14|boiler,14,starred,RAILWAYS,other,True,0,4,True,19920,2,9960.0,coder1;coder2,20261017
+ls14-s14-U-2330-20081215,pilot,ls14|boiler,14,unstarred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,True,0,5,True,19920,2,9960.0,coder1;coder2,20261017
+ls14-s11-U-116-20070810,pilot,ls14|other,14,unstarred,HOUSING AND URBAN POVERTY ALLEVIATION,other,False,0,3,True,42731,6,7121.833333333333,coder1;coder2,20261017
+ls14-s12-U-1780-20071129,pilot,ls14|other,14,unstarred,PETROLEUM AND NATURAL GAS,other,False,0,3,True,42731,6,7121.833333333333,coder1;coder2,20261017
+ls14-s4-U-4827-20050427,pilot,ls14|other,14,unstarred,"SHIPPING, ROAD TRANSPORT AND HIGHWAYS",other,False,0,4,True,42731,6,7121.833333333333,coder1;coder2,20261017
+ls14-s6-U-266-20051124,pilot,ls14|other,14,unstarred,PETROLEUM AND NATURAL GAS,other,False,0,3,True,42731,6,7121.833333333333,coder1;coder2,20261017
+ls14-s7-U-3443-20060515,pilot,ls14|other,14,unstarred,AGRICULTURE,other,False,0,6,True,42731,6,7121.833333333333,coder1;coder2,20261017
+ls14-s8-U-3662-20060825,pilot,ls14|other,14,unstarred,POWER,other,False,0,5,True,42731,6,7121.833333333333,coder1;coder2,20261017
+ls15-s13-S-107-20130305,pilot,ls15|other,15,starred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,False,0,5,True,53261,7,7608.714285714285,coder1;coder2,20261017
+ls15-s10-U-6189-20120514,pilot,ls15|boiler,15,unstarred,DEFENCE,security,True,0,4,True,23378,3,7792.666666666667,coder1;coder2,20261017
+ls15-s7-U-424-20110223,pilot,ls15|boiler,15,unstarred,HUMAN RESOURCE DEVELOPMENT,other,True,0,5,True,23378,3,7792.666666666667,coder1;coder2,20261017
+ls15-s8-U-1959-20110811,pilot,ls15|boiler,15,unstarred,PETROLEUM AND NATURAL GAS,other,True,0,6,True,23378,3,7792.666666666667,coder1;coder2,20261017
+ls15-s13-U-2209-20130311,pilot,ls15|other,15,unstarred,ROAD TRANSPORT AND HIGHWAYS,other,False,0,3,True,53261,7,7608.714285714285,coder1;coder2,20261017
+ls15-s14-U-2542-20130826,pilot,ls15|other,15,unstarred,ROAD TRANSPORT AND HIGHWAYS,other,False,0,2,True,53261,7,7608.714285714285,coder1;coder2,20261017
+ls15-s15-U-2364-20140205,pilot,ls15|other,15,unstarred,HUMAN RESOURCE DEVELOPMENT,other,False,0,3,True,53261,7,7608.714285714285,coder1;coder2,20261017
+ls15-s4-U-50-20100223,pilot,ls15|other,15,unstarred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,False,0,4,True,53261,7,7608.714285714285,coder1;coder2,20261017
+ls15-s5-U-4640-20100825,pilot,ls15|other,15,unstarred,OVERSEAS INDIAN AFFAIRS,other,False,0,3,True,53261,7,7608.714285714285,coder1;coder2,20261017
+ls15-s7-U-364-20110223,pilot,ls15|other,15,unstarred,CIVIL AVIATION,other,False,0,5,True,53261,7,7608.714285714285,coder1;coder2,20261017
+ls16-s2-S-104-20140715,pilot,ls16|boiler,16,starred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,True,0,4,True,20488,2,10244.0,coder1;coder2,20261017
+ls16-s7-S-37-20160225,pilot,ls16|other,16,starred,RURAL DEVELOPMENT,other,False,0,4,True,57558,7,8222.57142857143,coder1;coder2,20261017
+ls16-s9-S-131-20160726,pilot,ls16|other,16,starred,AGRICULTURE AND FARMERS WELFARE,other,False,0,5,True,57558,7,8222.57142857143,coder1;coder2,20261017
+ls16-s9-U-4195-20160811,pilot,ls16|boiler,16,unstarred,MINES,other,True,0,4,True,20488,2,10244.0,coder1;coder2,20261017
+ls16-s10-U-234-20161117,pilot,ls16|other,16,unstarred,COAL,other,False,0,4,True,57558,7,8222.57142857143,coder1;coder2,20261017
+ls16-s3-U-4515-20141219,pilot,ls16|other,16,unstarred,HEALTH AND FAMILY WELFARE,other,False,0,4,True,57558,7,8222.57142857143,coder1;coder2,20261017
+ls16-s7-U-1031-20160302,pilot,ls16|other,16,unstarred,SKILL DEVELOPMENT AND ENTREPRENEURSHIP,other,False,0,4,True,57558,7,8222.57142857143,coder1;coder2,20261017
+ls16-s7-U-498-20160226,pilot,ls16|other,16,unstarred,FINANCE,other,False,0,4,True,57558,7,8222.57142857143,coder1;coder2,20261017
+ls16-s8-U-319-20160426,pilot,ls16|other,16,unstarred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,False,0,6,True,57558,7,8222.57142857143,coder1;coder2,20261017
+ls17-s7-S-200-20211210,pilot,ls17|boiler,17,starred,HEALTH AND FAMILY WELFARE,other,True,0,3,True,12285,2,6142.5,coder1;coder2,20261017
+ls17-s14-U-3026-20231221,pilot,ls17|boiler,17,unstarred,JAL SHAKTI,other,True,0,3,True,12285,2,6142.5,coder1;coder2,20261017
+ls17-s1-U-1998-20190703,pilot,ls17|other,17,unstarred,COMMERCE AND INDUSTRY,other,False,0,3,True,46352,6,7725.333333333333,coder1;coder2,20261017
+ls17-s1-U-3259-20190712,pilot,ls17|other,17,unstarred,EARTH SCIENCES,other,False,0,5,True,46352,6,7725.333333333333,coder1;coder2,20261017
+ls17-s11-U-4796-20230329,pilot,ls17|other,17,unstarred,COMMUNICATIONS,other,False,0,4,True,46352,6,7725.333333333333,coder1;coder2,20261017
+ls17-s6-U-302-20210720,pilot,ls17|other,17,unstarred,"FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",other,False,0,3,True,46352,6,7725.333333333333,coder1;coder2,20261017
+ls17-s8-U-1018-20220208,pilot,ls17|other,17,unstarred,"FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",other,False,0,3,True,46352,6,7725.333333333333,coder1;coder2,20261017
+ls17-s8-U-671-20220204,pilot,ls17|other,17,unstarred,"AYURVEDA,YOGA AND NATUROPATHY,UNANI,SIDDHA AND HOMEOPATHY (AYUSH)",other,False,0,6,True,46352,6,7725.333333333333,coder1;coder2,20261017
+ls18-s4-S-129-20250213,pilot,ls18|other,18,starred,JAL SHAKTI,other,False,0,4,True,26934,5,5386.8,coder1;coder2,20261017
+ls18-s6-U-1594-20251209,pilot,ls18|boiler,18,unstarred,RURAL DEVELOPMENT,other,True,0,4,True,6349,1,6349.0,coder1;coder2,20261017
+ls18-s2-U-2133-20240805,pilot,ls18|other,18,unstarred,SKILL DEVELOPMENT AND ENTREPRENEURSHIP,other,False,0,6,True,26934,5,5386.8,coder1;coder2,20261017
+ls18-s3-U-4300-20241220,pilot,ls18|other,18,unstarred,HEALTH AND FAMILY WELFARE,other,False,0,2,True,26934,5,5386.8,coder1;coder2,20261017
+ls18-s5-U-2859-20250806,pilot,ls18|other,18,unstarred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,False,0,3,True,26934,5,5386.8,coder1;coder2,20261017
+ls18-s7-U-2820-20260310,pilot,ls18|other,18,unstarred,TEXTILES,other,False,0,5,True,26934,5,5386.8,coder1;coder2,20261017
