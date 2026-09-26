@@ -1,0 +1,421 @@
+qid,sample,stratum,ls,qtype,ministry,ministry_group,boilerplate_flag,m1_quintile,n_parts,in_estimate,N_stratum,n_stratum,weight,coders,seed,double_coded
+ls13-s3-S-624-20000510,main,ls13|starred|other|boiler,13,starred,AGRICULTURE,other,True,0,6,True,1356,2,678.0,coder2,20261017,False
+ls13-s4-S-265-20000810,main,ls13|starred|other|boiler,13,starred,RAILWAYS,other,True,0,5,True,1356,2,678.0,coder2,20261017,False
+ls13-s11-S-419-20021218,main,ls13|starred|other|other|q1,13,starred,HEALTH AND FAMILY WELFARE,other,False,1,3,True,747,2,373.5,coder1,20261017,False
+ls13-s3-S-303-20000316,main,ls13|starred|other|other|q1,13,starred,CIVIL AVIATION,other,False,1,4,True,747,2,373.5,coder1,20261017,False
+ls13-s12-S-500-20030424,main,ls13|starred|other|other|q2,13,starred,POWER,other,False,2,4,True,746,1,746.0,coder1;coder2,20261017,True
+ls13-s9-S-24-20020301,main,ls13|starred|other|other|q3,13,starred,FINANCE,other,False,3,6,True,746,1,746.0,coder1,20261017,False
+ls13-s8-S-6-20011119,main,ls13|starred|other|other|q4,13,starred,AGRICULTURE,other,False,4,4,True,746,1,746.0,coder1;coder2,20261017,True
+ls13-s10-S-68-20020718,main,ls13|starred|other|other|q5,13,starred,POWER,other,False,5,5,True,747,2,373.5,coder1,20261017,False
+ls13-s13-S-97-20030725,main,ls13|starred|other|other|q5,13,starred,FINANCE,other,False,5,4,True,747,2,373.5,coder2,20261017,False
+ls13-s4-S-406-20000822,main,ls13|starred|security|boiler,13,starred,HOME AFFAIRS,security,True,0,5,True,162,2,81.0,coder1,20261017,False
+ls13-s6-S-556-20010425,main,ls13|starred|security|boiler,13,starred,DEFENCE,security,True,0,4,True,162,2,81.0,coder2,20261017,False
+ls13-s8-S-42-20011121,main,ls13|starred|security|other|q12,13,starred,EXTERNAL AFFAIRS,security,False,1,5,True,189,1,189.0,coder1;coder2,20261017,True
+ls13-s9-S-263-20020321,main,ls13|starred|security|other|q34,13,starred,DEFENCE,security,False,3,5,True,188,1,188.0,coder1;coder2,20261017,True
+ls13-s10-S-233-20020730,main,ls13|starred|security|other|q5,13,starred,HOME AFFAIRS,security,False,5,2,True,95,1,95.0,coder1,20261017,False
+ls13-s10-U-4024-20020809,main,ls13|unstarred|other|boiler,13,unstarred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,True,0,4,True,19330,8,2416.25,coder1,20261017,False
+ls13-s13-U-537-20030723,main,ls13|unstarred|other|boiler,13,unstarred,HEALTH AND FAMILY WELFARE,other,True,0,5,True,19330,8,2416.25,coder1;coder2,20261017,True
+ls13-s3-U-1449-20000303,main,ls13|unstarred|other|boiler,13,unstarred,TEXTILES,other,True,0,5,True,19330,8,2416.25,coder1,20261017,False
+ls13-s3-U-7151-20000511,main,ls13|unstarred|other|boiler,13,unstarred,RURAL DEVELOPMENT,other,True,0,5,True,19330,8,2416.25,coder2,20261017,False
+ls13-s4-U-1744-20000803,main,ls13|unstarred|other|boiler,13,unstarred,POWER,other,True,0,4,True,19330,8,2416.25,coder1,20261017,False
+ls13-s5-U-2629-20001206,main,ls13|unstarred|other|boiler,13,unstarred,ATOMIC ENERGY,other,True,0,6,True,19330,8,2416.25,coder1;coder2,20261017,True
+ls13-s6-U-5513-20010424,main,ls13|unstarred|other|boiler,13,unstarred,STEEL,other,True,0,5,True,19330,8,2416.25,coder1,20261017,False
+ls13-s7-U-3121-20010810,main,ls13|unstarred|other|boiler,13,unstarred,FINANCE,other,True,0,3,True,19330,8,2416.25,coder1,20261017,False
+ls13-s10-U-994-20020719,main,ls13|unstarred|other|other|q1,13,unstarred,TEXTILES,other,False,1,2,True,7757,5,1551.4,coder1;coder2,20261017,True
+ls13-s3-U-5350-20000428,main,ls13|unstarred|other|other|q1,13,unstarred,INFORMATION AND BROADCASTING,other,False,1,6,True,7757,5,1551.4,coder2,20261017,False
+ls13-s3-U-592-20000228,main,ls13|unstarred|other|other|q1,13,unstarred,POWER,other,False,1,4,True,7757,5,1551.4,coder1,20261017,False
+ls13-s5-U-3915-20001213,main,ls13|unstarred|other|other|q1,13,unstarred,STATISTICS AND PROGRAMME IMPLEMENTATION,other,False,1,6,True,7757,5,1551.4,coder1,20261017,False
+ls13-s5-U-4308-20001215,main,ls13|unstarred|other|other|q1,13,unstarred,FINANCE,other,False,1,4,True,7757,5,1551.4,coder2,20261017,False
+ls13-s12-U-6091-20030505,main,ls13|unstarred|other|other|q2,13,unstarred,FOOD PROCESSING INDUSTRIES,other,False,2,3,True,7756,4,1939.0,coder2,20261017,False
+ls13-s13-U-30-20030721,main,ls13|unstarred|other|other|q2,13,unstarred,WATER RESOURCES,other,False,2,3,True,7756,4,1939.0,coder2,20261017,False
+ls13-s13-U-3871-20030822,main,ls13|unstarred|other|other|q2,13,unstarred,COMMERCE AND INDUSTRY,other,False,2,4,True,7756,4,1939.0,coder1,20261017,False
+ls13-s7-U-5080-20010827,main,ls13|unstarred|other|other|q2,13,unstarred,COMMUNICATIONS,other,False,2,5,True,7756,4,1939.0,coder2,20261017,False
+ls13-s11-U-4092-20021216,main,ls13|unstarred|other|other|q3,13,unstarred,CIVIL AVIATION,other,False,3,3,True,7757,5,1551.4,coder1,20261017,False
+ls13-s14-U-613-20031205,main,ls13|unstarred|other|other|q3,13,unstarred,TRIBAL AFFAIRS,other,False,3,4,True,7757,5,1551.4,coder2,20261017,False
+ls13-s5-U-2631-20001206,main,ls13|unstarred|other|other|q3,13,unstarred,HEALTH AND FAMILY WELFARE,other,False,3,2,True,7757,5,1551.4,coder2,20261017,False
+ls13-s6-U-472-20010223,main,ls13|unstarred|other|other|q3,13,unstarred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,False,3,5,True,7757,5,1551.4,coder1,20261017,False
+ls13-s7-U-3272-20010813,main,ls13|unstarred|other|other|q3,13,unstarred,CIVIL AVIATION,other,False,3,4,True,7757,5,1551.4,coder1,20261017,False
+ls13-s3-U-2523-20000310,main,ls13|unstarred|other|other|q4,13,unstarred,TEXTILES,other,False,4,4,True,7756,4,1939.0,coder1,20261017,False
+ls13-s3-U-6589-20000509,main,ls13|unstarred|other|other|q4,13,unstarred,URBAN DEVELOPMENT,other,False,4,3,True,7756,4,1939.0,coder2,20261017,False
+ls13-s4-U-3499-20000814,main,ls13|unstarred|other|other|q4,13,unstarred,SURFACE TRANSPORT,other,False,4,4,True,7756,4,1939.0,coder1,20261017,False
+ls13-s7-U-330-20010724,main,ls13|unstarred|other|other|q4,13,unstarred,HUMAN RESOURCE DEVELOPMENT,other,False,4,3,True,7756,4,1939.0,coder2,20261017,False
+ls13-s10-U-2181-20020729,main,ls13|unstarred|other|other|q5,13,unstarred,AGRICULTURE,other,False,5,1,True,7757,5,1551.4,coder1,20261017,False
+ls13-s10-U-2469-20020731,main,ls13|unstarred|other|other|q5,13,unstarred,SHIPPING,other,False,5,3,True,7757,5,1551.4,coder1,20261017,False
+ls13-s12-U-5029-20030425,main,ls13|unstarred|other|other|q5,13,unstarred,FINANCE AND COMPANY AFFAIRS,other,False,5,5,True,7757,5,1551.4,coder2,20261017,False
+ls13-s7-U-2385-20010807,main,ls13|unstarred|other|other|q5,13,unstarred,HUMAN RESOURCE DEVELOPMENT,other,False,5,2,True,7757,5,1551.4,coder2,20261017,False
+ls13-s8-U-3741-20011212,main,ls13|unstarred|other|other|q5,13,unstarred,SHIPPING,other,False,5,4,True,7757,5,1551.4,coder2,20261017,False
+ls13-s6-U-2376-20010313,main,ls13|unstarred|security|boiler,13,unstarred,HOME AFFAIRS,security,True,0,5,True,1698,2,849.0,coder2,20261017,False
+ls13-s9-U-2948-20020321,main,ls13|unstarred|security|boiler,13,unstarred,DEFENCE,security,True,0,5,True,1698,2,849.0,coder1,20261017,False
+ls13-s3-U-2863-20000314,main,ls13|unstarred|security|other|q1,13,unstarred,HOME AFFAIRS,security,False,1,5,True,809,2,404.5,coder2,20261017,False
+ls13-s5-U-5139-20001221,main,ls13|unstarred|security|other|q1,13,unstarred,DEFENCE,security,False,1,3,True,809,2,404.5,coder1;coder2,20261017,True
+ls13-s10-U-3743-20020808,main,ls13|unstarred|security|other|q2,13,unstarred,DEFENCE,security,False,2,2,True,809,2,404.5,coder1,20261017,False
+ls13-s9-U-895-20020306,main,ls13|unstarred|security|other|q2,13,unstarred,EXTERNAL AFFAIRS,security,False,2,3,True,809,2,404.5,coder1,20261017,False
+ls13-s7-U-3478-20010814,main,ls13|unstarred|security|other|q3,13,unstarred,HOME AFFAIRS,security,False,3,3,True,808,1,808.0,coder1;coder2,20261017,True
+ls13-s4-U-1607-20000802,main,ls13|unstarred|security|other|q4,13,unstarred,EXTERNAL AFFAIRS,security,False,4,1,True,809,1,809.0,coder1,20261017,False
+ls13-s11-U-2217-20021203,main,ls13|unstarred|security|other|q5,13,unstarred,HOME AFFAIRS,security,False,5,5,True,809,1,809.0,coder2,20261017,False
+ls14-s13-S-503-20080429,main,ls14|starred|other|boiler,14,starred,HUMAN RESOURCE DEVELOPMENT,other,True,0,6,True,1265,2,632.5,coder1;coder2,20261017,True
+ls14-s8-S-80-20060727,main,ls14|starred|other|boiler,14,starred,CIVIL AVIATION,other,True,0,6,True,1265,2,632.5,coder1,20261017,False
+ls14-s3-S-182-20041214,main,ls14|starred|other|other|q1,14,starred,POWER,other,False,1,4,True,748,2,374.0,coder2,20261017,False
+ls14-s6-S-192-20051206,main,ls14|starred|other|other|q1,14,starred,HUMAN RESOURCE DEVELOPMENT,other,False,1,5,True,748,2,374.0,coder1,20261017,False
+ls14-s10-S-342-20070426,main,ls14|starred|other|other|q2,14,starred,CIVIL AVIATION,other,False,2,4,True,747,2,373.5,coder2,20261017,False
+ls14-s7-S-168-20060302,main,ls14|starred|other|other|q2,14,starred,CIVIL AVIATION,other,False,2,3,True,747,2,373.5,coder1,20261017,False
+ls14-s7-S-312-20060313,main,ls14|starred|other|other|q3,14,starred,FOOD PROCESSING INDUSTRIES,other,False,3,3,True,747,1,747.0,coder1,20261017,False
+ls14-s14-S-17-20081017,main,ls14|starred|other|other|q4,14,starred,FINANCE,other,False,4,4,True,747,1,747.0,coder2,20261017,False
+ls14-s10-S-416-20070503,main,ls14|starred|other|other|q5,14,starred,RAILWAYS,other,False,5,4,True,747,1,747.0,coder1;coder2,20261017,True
+ls14-s10-S-508-20070510,main,ls14|starred|security|boiler,14,starred,DEFENCE,security,True,0,3,True,89,2,44.5,coder1,20261017,False
+ls14-s2-S-310-20040817,main,ls14|starred|security|boiler,14,starred,HOME AFFAIRS,security,True,0,5,True,89,2,44.5,coder1;coder2,20261017,True
+ls14-s6-S-413-20051221,main,ls14|starred|security|other|q123,14,starred,EXTERNAL AFFAIRS,security,False,3,5,True,194,1,194.0,coder2,20261017,False
+ls14-s9-S-119-20061129,main,ls14|starred|security|other|q45,14,starred,EXTERNAL AFFAIRS,security,False,5,4,True,129,1,129.0,coder2,20261017,False
+ls14-s11-U-1052-20070820,main,ls14|unstarred|other|boiler,14,unstarred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,True,0,5,True,17070,7,2438.5714285714284,coder1;coder2,20261017,True
+ls14-s12-U-3173-20071207,main,ls14|unstarred|other|boiler,14,unstarred,FINANCE,other,True,0,3,True,17070,7,2438.5714285714284,coder1,20261017,False
+ls14-s13-U-4340-20080424,main,ls14|unstarred|other|boiler,14,unstarred,STEEL,other,True,0,3,True,17070,7,2438.5714285714284,coder1;coder2,20261017,True
+ls14-s13-U-4988-20080429,main,ls14|unstarred|other|boiler,14,unstarred,INFORMATION AND BROADCASTING,other,True,0,3,True,17070,7,2438.5714285714284,coder1;coder2,20261017,True
+ls14-s13-U-5408-20080505,main,ls14|unstarred|other|boiler,14,unstarred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,True,0,3,True,17070,7,2438.5714285714284,coder1;coder2,20261017,True
+ls14-s15-U-656-20090225,main,ls14|unstarred|other|boiler,14,unstarred,PLANNING,other,True,0,3,True,17070,7,2438.5714285714284,coder2,20261017,False
+ls14-s9-U-3087-20061213,main,ls14|unstarred|other|boiler,14,unstarred,DEVELOPMENT OF NORTH EASTERN REGION,other,True,0,3,True,17070,7,2438.5714285714284,coder1,20261017,False
+ls14-s10-U-4085-20070503,main,ls14|unstarred|other|other|q1,14,unstarred,CIVIL AVIATION,other,False,1,3,True,6999,5,1399.8,coder1,20261017,False
+ls14-s11-U-1818-20070824,main,ls14|unstarred|other|other|q1,14,unstarred,FINANCE,other,False,1,3,True,6999,5,1399.8,coder1,20261017,False
+ls14-s11-U-3736-20070910,main,ls14|unstarred|other|other|q1,14,unstarred,COMMUNICATIONS AND INFORMATION TECHNOLOGY,other,False,1,4,True,6999,5,1399.8,coder2,20261017,False
+ls14-s12-U-588-20071121,main,ls14|unstarred|other|other|q1,14,unstarred,HEALTH AND FAMILY WELFARE,other,False,1,5,True,6999,5,1399.8,coder1;coder2,20261017,True
+ls14-s13-U-1491-20080310,main,ls14|unstarred|other|other|q1,14,unstarred,COMMUNICATIONS AND INFORMATION TECHNOLOGY,other,False,1,3,True,6999,5,1399.8,coder2,20261017,False
+ls14-s10-U-3230-20070321,main,ls14|unstarred|other|other|q2,14,unstarred,HEALTH AND FAMILY WELFARE,other,False,2,6,True,6998,5,1399.6,coder1;coder2,20261017,True
+ls14-s11-U-3037-20070905,main,ls14|unstarred|other|other|q2,14,unstarred,HEALTH AND FAMILY WELFARE,other,False,2,2,True,6998,5,1399.6,coder1,20261017,False
+ls14-s13-U-3652-20080417,main,ls14|unstarred|other|other|q2,14,unstarred,PETROLEUM AND NATURAL GAS,other,False,2,3,True,6998,5,1399.6,coder1,20261017,False
+ls14-s4-U-4753-20050427,main,ls14|unstarred|other|other|q2,14,unstarred,HEALTH AND FAMILY WELFARE,other,False,2,3,True,6998,5,1399.6,coder1,20261017,False
+ls14-s5-U-4246-20050824,main,ls14|unstarred|other|other|q2,14,unstarred,HEALTH AND FAMILY WELFARE,other,False,2,4,True,6998,5,1399.6,coder2,20261017,False
+ls14-s12-U-1893-20071129,main,ls14|unstarred|other|other|q3,14,unstarred,CHEMICALS AND FERTILIZERS,other,False,3,4,True,6998,4,1749.5,coder1;coder2,20261017,True
+ls14-s14-U-2547-20081216,main,ls14|unstarred|other|other|q3,14,unstarred,COMMERCE AND INDUSTRY,other,False,3,6,True,6998,4,1749.5,coder2,20261017,False
+ls14-s3-U-2202-20041214,main,ls14|unstarred|other|other|q3,14,unstarred,URBAN EMPLOYMENT AND POVERTY ALLEVIATION,other,False,3,4,True,6998,4,1749.5,coder1,20261017,False
+ls14-s9-U-3333-20061214,main,ls14|unstarred|other|other|q3,14,unstarred,CIVIL AVIATION,other,False,3,3,True,6998,4,1749.5,coder2,20261017,False
+ls14-s10-U-3366-20070426,main,ls14|unstarred|other|other|q4,14,unstarred,PETROLEUM AND NATURAL GAS,other,False,4,4,True,6998,4,1749.5,coder1,20261017,False
+ls14-s14-U-1459-20081029,main,ls14|unstarred|other|other|q4,14,unstarred,HEALTH AND FAMILY WELFARE,other,False,4,2,True,6998,4,1749.5,coder1,20261017,False
+ls14-s4-U-611-20050303,main,ls14|unstarred|other|other|q4,14,unstarred,INFORMATION AND BROADCASTING,other,False,4,5,True,6998,4,1749.5,coder2,20261017,False
+ls14-s5-U-4276-20050824,main,ls14|unstarred|other|other|q4,14,unstarred,HEALTH AND FAMILY WELFARE,other,False,4,2,True,6998,4,1749.5,coder1;coder2,20261017,True
+ls14-s10-U-2614-20070316,main,ls14|unstarred|other|other|q5,14,unstarred,EARTH SCIENCES,other,False,5,5,True,6998,4,1749.5,coder1,20261017,False
+ls14-s10-U-4003-20070503,main,ls14|unstarred|other|other|q5,14,unstarred,CULTURE,other,False,5,6,True,6998,4,1749.5,coder1;coder2,20261017,True
+ls14-s2-U-4069-20040825,main,ls14|unstarred|other|other|q5,14,unstarred,HEALTH AND FAMILY WELFARE,other,False,5,2,True,6998,4,1749.5,coder1;coder2,20261017,True
+ls14-s4-U-5854-20050504,main,ls14|unstarred|other|other|q5,14,unstarred,"SHIPPING, ROAD TRANSPORT AND HIGHWAYS",other,False,5,5,True,6998,4,1749.5,coder1,20261017,False
+ls14-s2-U-3917-20040824,main,ls14|unstarred|security|boiler,14,unstarred,HOME AFFAIRS,security,True,0,4,True,1494,2,747.0,coder1,20261017,False
+ls14-s6-U-4444-20051222,main,ls14|unstarred|security|boiler,14,unstarred,DEFENCE,security,True,0,3,True,1494,2,747.0,coder1,20261017,False
+ls14-s2-U-2112-20040722,main,ls14|unstarred|security|other|q1,14,unstarred,DEFENCE,security,False,1,3,True,735,2,367.5,coder2,20261017,False
+ls14-s7-U-1903-20060308,main,ls14|unstarred|security|other|q1,14,unstarred,EXTERNAL AFFAIRS,security,False,1,4,True,735,2,367.5,coder1;coder2,20261017,True
+ls14-s5-U-2357-20050809,main,ls14|unstarred|security|other|q2,14,unstarred,HOME AFFAIRS,security,False,2,4,True,735,2,367.5,coder1,20261017,False
+ls14-s8-U-1150-20060802,main,ls14|unstarred|security|other|q2,14,unstarred,EXTERNAL AFFAIRS,security,False,2,6,True,735,2,367.5,coder1;coder2,20261017,True
+ls14-s5-U-842-20050728,main,ls14|unstarred|security|other|q3,14,unstarred,DEFENCE,security,False,3,5,True,734,1,734.0,coder1,20261017,False
+ls14-s9-U-1458-20061130,main,ls14|unstarred|security|other|q4,14,unstarred,DEFENCE,security,False,4,2,True,735,1,735.0,coder1;coder2,20261017,True
+ls14-s7-U-3006-20060511,main,ls14|unstarred|security|other|q5,14,unstarred,DEFENCE,security,False,5,4,True,735,1,735.0,coder2,20261017,False
+ls15-s10-S-238-20120329,main,ls15|starred|other|boiler,15,starred,CHEMICALS AND FERTILIZERS,other,True,0,5,True,1373,2,686.5,coder2,20261017,False
+ls15-s4-S-324-20100419,main,ls15|starred|other|boiler,15,starred,RURAL DEVELOPMENT,other,True,0,5,True,1373,2,686.5,coder1,20261017,False
+ls15-s13-S-353-20130321,main,ls15|starred|other|other|q1,15,starred,"MICRO, SMALL AND MEDIUM ENTERPRISES",other,False,1,5,True,867,2,433.5,coder1,20261017,False
+ls15-s6-S-419-20101208,main,ls15|starred|other|other|q1,15,starred,HUMAN RESOURCE DEVELOPMENT,other,False,1,4,True,867,2,433.5,coder1,20261017,False
+ls15-s12-S-106-20121130,main,ls15|starred|other|other|q2,15,starred,WOMEN AND CHILD DEVELOPMENT,other,False,2,5,True,866,2,433.0,coder1,20261017,False
+ls15-s3-S-97-20091125,main,ls15|starred|other|other|q2,15,starred,HUMAN RESOURCE DEVELOPMENT,other,False,2,5,True,866,2,433.0,coder1;coder2,20261017,True
+ls15-s2-S-300-20090723,main,ls15|starred|other|other|q3,15,starred,TEXTILES,other,False,3,3,True,866,2,433.0,coder1;coder2,20261017,True
+ls15-s3-S-27-20091120,main,ls15|starred|other|other|q3,15,starred,WOMEN AND CHILD DEVELOPMENT,other,False,3,6,True,866,2,433.0,coder1,20261017,False
+ls15-s10-S-340-20120427,main,ls15|starred|other|other|q4,15,starred,PANCHAYATI RAJ,other,False,4,5,True,866,1,866.0,coder1;coder2,20261017,True
+ls15-s15-S-328-20140213,main,ls15|starred|other|other|q5,15,starred,RAILWAYS,other,False,5,5,True,866,1,866.0,coder2,20261017,False
+ls15-s15-S-174-20131217,main,ls15|starred|security|boiler,15,starred,HOME AFFAIRS,security,True,0,5,True,98,2,49.0,coder2,20261017,False
+ls15-s6-S-15-20101109,main,ls15|starred|security|boiler,15,starred,HOME AFFAIRS,security,True,0,4,True,98,2,49.0,coder2,20261017,False
+ls15-s5-S-129-20100803,main,ls15|starred|security|other|q123,15,starred,HOME AFFAIRS,security,False,1,5,True,235,1,235.0,coder1,20261017,False
+ls15-s9-S-122-20111130,main,ls15|starred|security|other|q45,15,starred,EXTERNAL AFFAIRS,security,False,4,5,True,156,1,156.0,coder1;coder2,20261017,True
+ls15-s10-U-4952-20120507,main,ls15|unstarred|other|boiler,15,unstarred,ENVIRONMENT AND FORESTS,other,True,0,4,True,19825,8,2478.125,coder1;coder2,20261017,True
+ls15-s11-U-2947-20120829,main,ls15|unstarred|other|boiler,15,unstarred,HUMAN RESOURCE DEVELOPMENT,other,True,0,6,True,19825,8,2478.125,coder2,20261017,False
+ls15-s12-U-20-20121122,main,ls15|unstarred|other|boiler,15,unstarred,POWER,other,True,0,6,True,19825,8,2478.125,coder1,20261017,False
+ls15-s12-U-860-20121127,main,ls15|unstarred|other|boiler,15,unstarred,AGRICULTURE,other,True,0,5,True,19825,8,2478.125,coder2,20261017,False
+ls15-s14-U-980-20130812,main,ls15|unstarred|other|boiler,15,unstarred,ENVIRONMENT AND FORESTS,other,True,0,6,True,19825,8,2478.125,coder1,20261017,False
+ls15-s3-U-1047-20091125,main,ls15|unstarred|other|boiler,15,unstarred,"PERSONNEL,PUBLIC GRIEVANCES AND PENSIONS",other,True,0,3,True,19825,8,2478.125,coder2,20261017,False
+ls15-s8-U-2646-20110817,main,ls15|unstarred|other|boiler,15,unstarred,COMMUNICATIONS AND INFORMATION TECHNOLOGY,other,True,0,4,True,19825,8,2478.125,coder2,20261017,False
+ls15-s9-U-3698-20111216,main,ls15|unstarred|other|boiler,15,unstarred,FINANCE,other,True,0,2,True,19825,8,2478.125,coder1;coder2,20261017,True
+ls15-s11-U-841-20120814,main,ls15|unstarred|other|other|q1,15,unstarred,URBAN DEVELOPMENT,other,False,1,4,True,8709,5,1741.8,coder1,20261017,False
+ls15-s13-U-5685-20130430,main,ls15|unstarred|other|other|q1,15,unstarred,AGRICULTURE,other,False,1,3,True,8709,5,1741.8,coder1;coder2,20261017,True
+ls15-s4-U-3894-20100420,main,ls15|unstarred|other|other|q1,15,unstarred,AGRICULTURE,other,False,1,3,True,8709,5,1741.8,coder1,20261017,False
+ls15-s4-U-4164-20100421,main,ls15|unstarred|other|other|q1,15,unstarred,HUMAN RESOURCE DEVELOPMENT,other,False,1,3,True,8709,5,1741.8,coder1;coder2,20261017,True
+ls15-s6-U-3056-20101129,main,ls15|unstarred|other|other|q1,15,unstarred,COMMUNICATIONS AND INFORMATION TECHNOLOGY,other,False,1,3,True,8709,5,1741.8,coder2,20261017,False
+ls15-s11-U-3343-20120831,main,ls15|unstarred|other|other|q2,15,unstarred,HEALTH AND FAMILY WELFARE,other,False,2,5,True,8708,5,1741.6,coder1,20261017,False
+ls15-s12-U-988-20121129,main,ls15|unstarred|other|other|q2,15,unstarred,DRINKING WATER AND SANITATION,other,False,2,4,True,8708,5,1741.6,coder2,20261017,False
+ls15-s4-U-3643-20100416,main,ls15|unstarred|other|other|q2,15,unstarred,HEALTH AND FAMILY WELFARE,other,False,2,2,True,8708,5,1741.6,coder2,20261017,False
+ls15-s7-U-2694-20110311,main,ls15|unstarred|other|other|q2,15,unstarred,FINANCE,other,False,2,4,True,8708,5,1741.6,coder1,20261017,False
+ls15-s8-U-4961-20110902,main,ls15|unstarred|other|other|q2,15,unstarred,HEALTH AND FAMILY WELFARE,other,False,2,3,True,8708,5,1741.6,coder2,20261017,False
+ls15-s11-U-438-20120809,main,ls15|unstarred|other|other|q3,15,unstarred,RURAL DEVELOPMENT,other,False,3,3,True,8708,5,1741.6,coder2,20261017,False
+ls15-s14-U-1050-20130812,main,ls15|unstarred|other|other|q3,15,unstarred,ENVIRONMENT AND FORESTS,other,False,3,3,True,8708,5,1741.6,coder1;coder2,20261017,True
+ls15-s3-U-414-20091120,main,ls15|unstarred|other|other|q3,15,unstarred,TRIBAL AFFAIRS,other,False,3,4,True,8708,5,1741.6,coder2,20261017,False
+ls15-s4-U-4052-20100420,main,ls15|unstarred|other|other|q3,15,unstarred,INFORMATION AND BROADCASTING,other,False,3,4,True,8708,5,1741.6,coder2,20261017,False
+ls15-s6-U-3662-20101201,main,ls15|unstarred|other|other|q3,15,unstarred,WATER RESOURCES,other,False,3,4,True,8708,5,1741.6,coder1,20261017,False
+ls15-s13-U-2521-20130312,main,ls15|unstarred|other|other|q4,15,unstarred,FOOD PROCESSING INDUSTRIES,other,False,4,4,True,8708,5,1741.6,coder1,20261017,False
+ls15-s13-U-5942-20130502,main,ls15|unstarred|other|other|q4,15,unstarred,RAILWAYS,other,False,4,5,True,8708,5,1741.6,coder2,20261017,False
+ls15-s14-U-1917-20130819,main,ls15|unstarred|other|other|q4,15,unstarred,ROAD TRANSPORT AND HIGHWAYS,other,False,4,4,True,8708,5,1741.6,coder2,20261017,False
+ls15-s3-U-3296-20091209,main,ls15|unstarred|other|other|q4,15,unstarred,COAL,other,False,4,3,True,8708,5,1741.6,coder1;coder2,20261017,True
+ls15-s4-U-172-20100223,main,ls15|unstarred|other|other|q4,15,unstarred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,False,4,3,True,8708,5,1741.6,coder1;coder2,20261017,True
+ls15-s13-U-6394-20130506,main,ls15|unstarred|other|other|q5,15,unstarred,ENVIRONMENT AND FORESTS,other,False,5,3,True,8708,4,2177.0,coder1;coder2,20261017,True
+ls15-s15-U-430-20131206,main,ls15|unstarred|other|other|q5,15,unstarred,WOMEN AND CHILD DEVELOPMENT,other,False,5,5,True,8708,4,2177.0,coder2,20261017,False
+ls15-s6-U-4633-20101208,main,ls15|unstarred|other|other|q5,15,unstarred,CULTURE,other,False,5,3,True,8708,4,2177.0,coder1,20261017,False
+ls15-s8-U-5000-20110902,main,ls15|unstarred|other|other|q5,15,unstarred,FINANCE,other,False,5,3,True,8708,4,2177.0,coder1,20261017,False
+ls15-s12-U-879-20121127,main,ls15|unstarred|security|boiler,15,unstarred,HOME AFFAIRS,security,True,0,4,True,2079,3,693.0,coder1;coder2,20261017,True
+ls15-s6-U-1197-20101116,main,ls15|unstarred|security|boiler,15,unstarred,HOME AFFAIRS,security,True,0,2,True,2079,3,693.0,coder2,20261017,False
+ls15-s9-U-4234-20111220,main,ls15|unstarred|security|boiler,15,unstarred,HOME AFFAIRS,security,True,0,5,True,2079,3,693.0,coder1,20261017,False
+ls15-s3-U-1050-20091125,main,ls15|unstarred|security|other|q1,15,unstarred,EXTERNAL AFFAIRS,security,False,1,6,True,998,2,499.0,coder1,20261017,False
+ls15-s8-U-175-20110801,main,ls15|unstarred|security|other|q1,15,unstarred,DEFENCE,security,False,1,5,True,998,2,499.0,coder1,20261017,False
+ls15-s4-U-6177-20100504,main,ls15|unstarred|security|other|q2,15,unstarred,HOME AFFAIRS,security,False,2,4,True,998,2,499.0,coder2,20261017,False
+ls15-s5-U-413-20100727,main,ls15|unstarred|security|other|q2,15,unstarred,HOME AFFAIRS,security,False,2,3,True,998,2,499.0,coder2,20261017,False
+ls15-s3-U-4099-20091215,main,ls15|unstarred|security|other|q3,15,unstarred,HOME AFFAIRS,security,False,3,3,True,998,2,499.0,coder2,20261017,False
+ls15-s5-U-2318-20100809,main,ls15|unstarred|security|other|q3,15,unstarred,DEFENCE,security,False,3,6,True,998,2,499.0,coder1;coder2,20261017,True
+ls15-s9-U-4374-20111221,main,ls15|unstarred|security|other|q4,15,unstarred,EXTERNAL AFFAIRS,security,False,4,4,True,998,1,998.0,coder1,20261017,False
+ls15-s11-U-1535-20120821,main,ls15|unstarred|security|other|q5,15,unstarred,HOME AFFAIRS,security,False,5,5,True,998,1,998.0,coder1;coder2,20261017,True
+ls16-s14-S-485-20180402,main,ls16|starred|other|boiler,16,starred,HUMAN RESOURCE DEVELOPMENT,other,True,0,3,True,1276,2,638.0,coder2,20261017,False
+ls16-s3-S-338-20141216,main,ls16|starred|other|boiler,16,starred,"ENVIRONMENT, FORESTS AND CLIMATE CHANGE",other,True,0,5,True,1276,2,638.0,coder1;coder2,20261017,True
+ls16-s14-S-198-20180308,main,ls16|starred|other|other|q1,16,starred,DRINKING WATER AND SANITATION,other,False,1,5,True,893,2,446.5,coder1;coder2,20261017,True
+ls16-s4-S-80-20150227,main,ls16|starred|other|other|q1,16,starred,PLANNING,other,False,1,5,True,893,2,446.5,coder1,20261017,False
+ls16-s7-S-272-20160316,main,ls16|starred|other|other|q2,16,starred,HOUSING AND URBAN POVERTY ALLEVIATION,other,False,2,5,True,892,1,892.0,coder2,20261017,False
+ls16-s10-S-290-20161206,main,ls16|starred|other|other|q3,16,starred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,False,3,4,True,893,2,446.5,coder2,20261017,False
+ls16-s16-S-17-20181211,main,ls16|starred|other|other|q3,16,starred,AGRICULTURE AND FARMERS WELFARE,other,False,3,5,True,893,2,446.5,coder1,20261017,False
+ls16-s14-S-275-20180314,main,ls16|starred|other|other|q4,16,starred,RAILWAYS,other,False,4,4,True,892,1,892.0,coder2,20261017,False
+ls16-s11-S-453-20170405,main,ls16|starred|other|other|q5,16,starred,ATOMIC ENERGY,other,False,5,4,True,893,2,446.5,coder2,20261017,False
+ls16-s9-S-260-20160803,main,ls16|starred|other|other|q5,16,starred,COMMUNICATIONS,other,False,5,5,True,893,2,446.5,coder1,20261017,False
+ls16-s10-S-259-20161202,main,ls16|starred|security|boiler,16,starred,DEFENCE,security,True,0,2,True,128,2,64.0,coder1,20261017,False
+ls16-s11-S-235-20170317,main,ls16|starred|security|boiler,16,starred,DEFENCE,security,True,0,5,True,128,2,64.0,coder1,20261017,False
+ls16-s2-S-495-20140812,main,ls16|starred|security|other|q12,16,starred,HOME AFFAIRS,security,False,1,5,True,178,1,178.0,coder1;coder2,20261017,True
+ls16-s15-S-89-20180724,main,ls16|starred|security|other|q34,16,starred,HOME AFFAIRS,security,False,4,5,True,178,1,178.0,coder2,20261017,False
+ls16-s8-S-124-20160503,main,ls16|starred|security|other|q5,16,starred,HOME AFFAIRS,security,False,5,5,True,89,1,89.0,coder1,20261017,False
+ls16-s11-S-554-20170412,main,"m1_missing|ls13,14,15,16",16,starred,MINORITY AFFAIRS,other,False,0,2,True,9,1,9.0,coder2,20261017,False
+ls16-s10-U-328-20161117,main,ls16|unstarred|other|boiler,16,unstarred,RURAL DEVELOPMENT,other,True,0,3,True,17354,7,2479.1428571428573,coder1,20261017,False
+ls16-s11-U-4330-20170328,main,ls16|unstarred|other|boiler,16,unstarred,AGRICULTURE AND FARMERS WELFARE,other,True,0,3,True,17354,7,2479.1428571428573,coder2,20261017,False
+ls16-s15-U-3660-20180808,main,ls16|unstarred|other|boiler,16,unstarred,RAILWAYS,other,True,0,6,True,17354,7,2479.1428571428573,coder1,20261017,False
+ls16-s6-U-1635-20151209,main,ls16|unstarred|other|boiler,16,unstarred,MINORITY AFFAIRS,other,True,0,5,True,17354,7,2479.1428571428573,coder2,20261017,False
+ls16-s7-U-609-20160226,main,ls16|unstarred|other|boiler,16,unstarred,FINANCE,other,True,0,4,True,17354,7,2479.1428571428573,coder1;coder2,20261017,True
+ls16-s7-U-945-20160302,main,ls16|unstarred|other|boiler,16,unstarred,RAILWAYS,other,True,0,4,True,17354,7,2479.1428571428573,coder1;coder2,20261017,True
+ls16-s8-U-486-20160427,main,ls16|unstarred|other|boiler,16,unstarred,ATOMIC ENERGY,other,True,0,4,True,17354,7,2479.1428571428573,coder2,20261017,False
+ls16-s13-U-842-20171220,main,ls16|unstarred|other|other|q1,16,unstarred,RAILWAYS,other,False,1,2,True,9540,5,1908.0,coder2,20261017,False
+ls16-s15-U-1984-20180730,main,ls16|unstarred|other|other|q1,16,unstarred,LABOUR AND EMPLOYMENT,other,False,1,4,True,9540,5,1908.0,coder1,20261017,False
+ls16-s16-U-3336-20190101,main,ls16|unstarred|other|other|q1,16,unstarred,AGRICULTURE AND FARMERS WELFARE,other,False,1,4,True,9540,5,1908.0,coder2,20261017,False
+ls16-s4-U-5810-20150429,main,ls16|unstarred|other|other|q1,16,unstarred,"PERSONNEL, PUBLIC GRIEVANCES AND PENSIONS",other,False,1,2,True,9540,5,1908.0,coder1;coder2,20261017,True
+ls16-s9-U-2556-20160802,main,ls16|unstarred|other|other|q1,16,unstarred,"ENVIRONMENT, FORESTS AND CLIMATE CHANGE",other,False,1,4,True,9540,5,1908.0,coder1;coder2,20261017,True
+ls16-s15-U-206-20180718,main,ls16|unstarred|other|other|q2,16,unstarred,LAW AND JUSTICE,other,False,2,5,True,9539,5,1907.8,coder1,20261017,False
+ls16-s16-U-3891-20190103,main,ls16|unstarred|other|other|q2,16,unstarred,ROAD TRANSPORT AND HIGHWAYS,other,False,2,4,True,9539,5,1907.8,coder1,20261017,False
+ls16-s4-U-6032-20150430,main,ls16|unstarred|other|other|q2,16,unstarred,DRINKING WATER AND SANITATION,other,False,2,3,True,9539,5,1907.8,coder2,20261017,False
+ls16-s6-U-657-20151202,main,ls16|unstarred|other|other|q2,16,unstarred,STATISTICS AND PROGRAMME IMPLEMENTATION,other,False,2,4,True,9539,5,1907.8,coder1;coder2,20261017,True
+ls16-s7-U-2792-20160315,main,ls16|unstarred|other|other|q2,16,unstarred,CHEMICALS AND FERTILIZERS,other,False,2,4,True,9539,5,1907.8,coder1;coder2,20261017,True
+ls16-s10-U-1823-20161125,main,ls16|unstarred|other|other|q3,16,unstarred,FINANCE,other,False,3,4,True,9539,5,1907.8,coder2,20261017,False
+ls16-s10-U-4109-20161209,main,ls16|unstarred|other|other|q3,16,unstarred,FINANCE,other,False,3,4,True,9539,5,1907.8,coder1;coder2,20261017,True
+ls16-s11-U-4348-20170328,main,ls16|unstarred|other|other|q3,16,unstarred,PARLIAMENTARY AFFAIRS,other,False,3,3,True,9539,5,1907.8,coder2,20261017,False
+ls16-s11-U-5539-20170407,main,ls16|unstarred|other|other|q3,16,unstarred,WOMEN AND CHILD DEVELOPMENT,other,False,3,4,True,9539,5,1907.8,coder1,20261017,False
+ls16-s6-U-594-20151202,main,ls16|unstarred|other|other|q3,16,unstarred,RAILWAYS,other,False,3,4,True,9539,5,1907.8,coder1,20261017,False
+ls16-s11-U-5879-20170410,main,ls16|unstarred|other|other|q4,16,unstarred,HUMAN RESOURCE DEVELOPMENT,other,False,4,5,True,9539,5,1907.8,coder1;coder2,20261017,True
+ls16-s14-U-6656-20180406,main,ls16|unstarred|other|other|q4,16,unstarred,CORPORATE AFFAIRS,other,False,4,6,True,9539,5,1907.8,coder1;coder2,20261017,True
+ls16-s16-U-229-20181211,main,ls16|unstarred|other|other|q4,16,unstarred,CHEMICALS AND FERTILIZERS,other,False,4,4,True,9539,5,1907.8,coder2,20261017,False
+ls16-s2-U-4343-20140808,main,ls16|unstarred|other|other|q4,16,unstarred,FINANCE,other,False,4,5,True,9539,5,1907.8,coder2,20261017,False
+ls16-s9-U-3918-20160810,main,ls16|unstarred|other|other|q4,16,unstarred,ATOMIC ENERGY,other,False,4,5,True,9539,5,1907.8,coder1,20261017,False
+ls16-s11-U-5225-20170405,main,ls16|unstarred|other|other|q5,16,unstarred,ELECTRONICS AND INFORMATION TECHNOLOGY,other,False,5,5,True,9539,5,1907.8,coder2,20261017,False
+ls16-s11-U-736-20170207,main,ls16|unstarred|other|other|q5,16,unstarred,AGRICULTURE AND FARMERS WELFARE,other,False,5,4,True,9539,5,1907.8,coder1;coder2,20261017,True
+ls16-s14-U-5250-20180327,main,ls16|unstarred|other|other|q5,16,unstarred,AGRICULTURE AND FARMERS WELFARE,other,False,5,5,True,9539,5,1907.8,coder2,20261017,False
+ls16-s5-U-3649-20150811,main,ls16|unstarred|other|other|q5,16,unstarred,AGRICULTURE,other,False,5,3,True,9539,5,1907.8,coder2,20261017,False
+ls16-s8-U-159-20160425,main,ls16|unstarred|other|other|q5,16,unstarred,COMMERCE AND INDUSTRY,other,False,5,5,True,9539,5,1907.8,coder2,20261017,False
+ls16-s10-U-666-20161118,main,ls16|unstarred|security|boiler,16,unstarred,DEFENCE,security,True,0,5,True,1728,2,864.0,coder2,20261017,False
+ls16-s8-U-2592-20160510,main,ls16|unstarred|security|boiler,16,unstarred,HOME AFFAIRS,security,True,0,3,True,1728,2,864.0,coder2,20261017,False
+ls16-s15-U-2269-20180731,main,ls16|unstarred|security|other|q1,16,unstarred,HOME AFFAIRS,security,False,1,4,True,989,2,494.5,coder1,20261017,False
+ls16-s8-U-2816-20160511,main,ls16|unstarred|security|other|q1,16,unstarred,EXTERNAL AFFAIRS,security,False,1,4,True,989,2,494.5,coder2,20261017,False
+ls16-s13-U-2431-20180102,main,ls16|unstarred|security|other|q2,16,unstarred,HOME AFFAIRS,security,False,2,5,True,989,2,494.5,coder2,20261017,False
+ls16-s4-U-7080-20150508,main,ls16|unstarred|security|other|q2,16,unstarred,DEFENCE,security,False,2,4,True,989,2,494.5,coder1;coder2,20261017,True
+ls16-s2-U-656-20140715,main,ls16|unstarred|security|other|q3,16,unstarred,HOME AFFAIRS,security,False,3,4,True,988,1,988.0,coder1,20261017,False
+ls16-s16-U-3445-20190101,main,ls16|unstarred|security|other|q4,16,unstarred,HOME AFFAIRS,security,False,4,5,True,989,2,494.5,coder1,20261017,False
+ls16-s16-U-3569-20190102,main,ls16|unstarred|security|other|q4,16,unstarred,EXTERNAL AFFAIRS,security,False,4,3,True,989,2,494.5,coder2,20261017,False
+ls16-s5-U-3665-20150811,main,ls16|unstarred|security|other|q5,16,unstarred,HOME AFFAIRS,security,False,5,5,True,989,1,989.0,coder1;coder2,20261017,True
+ls17-s5-S-96-20210208,main,ls17|starred|other|boiler,17,starred,CULTURE,other,True,0,6,True,943,4,235.75,coder1;coder2,20261017,True
+ls17-s7-S-162-20211209,main,ls17|starred|other|boiler,17,starred,MINORITY AFFAIRS,other,True,0,4,True,943,4,235.75,coder1;coder2,20261017,True
+ls17-s8-S-319-20220324,main,ls17|starred|other|boiler,17,starred,JAL SHAKTI,other,True,0,5,True,943,4,235.75,coder2,20261017,False
+ls17-s9-S-283-20220805,main,ls17|starred|other|boiler,17,starred,HEALTH AND FAMILY WELFARE,other,True,0,5,True,943,4,235.75,coder1;coder2,20261017,True
+ls17-s11-S-211-20230315,main,ls17|starred|other|other|q1,17,starred,RAILWAYS,other,False,1,5,True,672,3,224.0,coder2,20261017,False
+ls17-s12-S-169-20230801,main,ls17|starred|other|other|q1,17,starred,AGRICULTURE AND FARMERS WELFARE,other,False,1,6,True,672,3,224.0,coder1,20261017,False
+ls17-s2-S-314-20191210,main,ls17|starred|other|other|q1,17,starred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,False,1,3,True,672,3,224.0,coder1;coder2,20261017,True
+ls17-s1-S-251-20190710,main,ls17|starred|other|other|q2,17,starred,RAILWAYS,other,False,2,3,True,672,3,224.0,coder2,20261017,False
+ls17-s12-S-334-20230811,main,ls17|starred|other|other|q2,17,starred,HEALTH AND FAMILY WELFARE,other,False,2,5,True,672,3,224.0,coder1,20261017,False
+ls17-s3-S-96-20200207,main,ls17|starred|other|other|q2,17,starred,"AYURVEDA,YOGA AND NATUROPATHY,UNANI,SIDDHA AND HOMEOPATHY (AYUSH)",other,False,2,5,True,672,3,224.0,coder1,20261017,False
+ls17-s14-S-244-20231220,main,ls17|starred|other|other|q3,17,starred,RAILWAYS,other,False,3,3,True,672,2,336.0,coder2,20261017,False
+ls17-s2-S-136-20191127,main,ls17|starred|other|other|q3,17,starred,RAILWAYS,other,False,3,5,True,672,2,336.0,coder2,20261017,False
+ls17-s7-S-151-20211208,main,ls17|starred|other|other|q4,17,starred,COMMUNICATIONS,other,False,4,3,True,672,2,336.0,coder1;coder2,20261017,True
+ls17-s9-S-295-20220805,main,ls17|starred|other|other|q4,17,starred,WOMEN AND CHILD DEVELOPMENT,other,False,4,4,True,672,2,336.0,coder2,20261017,False
+ls17-s5-S-204-20210309,main,ls17|starred|other|other|q5,17,starred,AGRICULTURE AND FARMERS WELFARE,other,False,5,3,True,672,2,336.0,coder1;coder2,20261017,True
+ls17-s6-S-194-20210802,main,ls17|starred|other|other|q5,17,starred,PETROLEUM AND NATURAL GAS,other,False,5,4,True,672,2,336.0,coder1,20261017,False
+ls17-s10-S-98-20221213,main,ls17|starred|security|boiler,17,starred,HOME AFFAIRS,security,True,0,5,True,44,2,22.0,coder1;coder2,20261017,True
+ls17-s7-S-336-20211221,main,ls17|starred|security|boiler,17,starred,HOME AFFAIRS,security,True,0,6,True,44,2,22.0,coder2,20261017,False
+ls17-s2-S-202-20191203,main,ls17|starred|security|other|q12,17,starred,HOME AFFAIRS,security,False,2,2,True,60,1,60.0,coder2,20261017,False
+ls17-s2-S-39-20191119,main,ls17|starred|security|other|q34,17,starred,HOME AFFAIRS,security,False,4,5,True,60,1,60.0,coder2,20261017,False
+ls17-s11-S-421-20230331,main,ls17|starred|security|other|q5,17,starred,EXTERNAL AFFAIRS,security,False,5,5,True,30,1,30.0,coder1,20261017,False
+ls17-s1-S-497-20190726,main,m1_missing|ls17,17,starred,SCIENCE AND TECHNOLOGY,other,False,0,4,True,7,1,7.0,coder1,20261017,False
+ls17-s1-U-2012-20190703,main,ls17|unstarred|other|boiler,17,unstarred,LAW AND JUSTICE,other,True,0,6,True,10617,14,758.3571428571429,coder1,20261017,False
+ls17-s1-U-4216-20190718,main,ls17|unstarred|other|boiler,17,unstarred,"MICRO,SMALL AND MEDIUM ENTERPRISES",other,True,0,4,True,10617,14,758.3571428571429,coder2,20261017,False
+ls17-s11-U-4006-20230324,main,ls17|unstarred|other|boiler,17,unstarred,WOMEN AND CHILD DEVELOPMENT,other,True,0,6,True,10617,14,758.3571428571429,coder1,20261017,False
+ls17-s11-U-724-20230207,main,ls17|unstarred|other|boiler,17,unstarred,RURAL DEVELOPMENT,other,True,0,6,True,10617,14,758.3571428571429,coder1;coder2,20261017,True
+ls17-s12-U-1648-20230731,main,ls17|unstarred|other|boiler,17,unstarred,EDUCATION,other,True,0,5,True,10617,14,758.3571428571429,coder2,20261017,False
+ls17-s2-U-2810-20191205,main,ls17|unstarred|other|boiler,17,unstarred,YOUTH AFFAIRS AND SPORTS,other,True,0,3,True,10617,14,758.3571428571429,coder1,20261017,False
+ls17-s3-U-3424-20200313,main,ls17|unstarred|other|boiler,17,unstarred,HEALTH AND FAMILY WELFARE,other,True,0,5,True,10617,14,758.3571428571429,coder2,20261017,False
+ls17-s3-U-694-20200206,main,ls17|unstarred|other|boiler,17,unstarred,HOUSING AND URBAN AFFAIRS,other,True,0,4,True,10617,14,758.3571428571429,coder2,20261017,False
+ls17-s5-U-2612-20210310,main,ls17|unstarred|other|boiler,17,unstarred,RAILWAYS,other,True,0,3,True,10617,14,758.3571428571429,coder2,20261017,False
+ls17-s5-U-4694-20210324,main,ls17|unstarred|other|boiler,17,unstarred,ELECTRONICS AND INFORMATION TECHNOLOGY,other,True,0,4,True,10617,14,758.3571428571429,coder2,20261017,False
+ls17-s8-U-1562-20220210,main,ls17|unstarred|other|boiler,17,unstarred,JAL SHAKTI,other,True,0,6,True,10617,14,758.3571428571429,coder2,20261017,False
+ls17-s8-U-2219-20220315,main,ls17|unstarred|other|boiler,17,unstarred,RURAL DEVELOPMENT,other,True,0,4,True,10617,14,758.3571428571429,coder2,20261017,False
+ls17-s8-U-3408-20220323,main,ls17|unstarred|other|boiler,17,unstarred,COMMUNICATIONS,other,True,0,2,True,10617,14,758.3571428571429,coder1;coder2,20261017,True
+ls17-s8-U-5008-20220401,main,ls17|unstarred|other|boiler,17,unstarred,CHEMICALS AND FERTILIZERS,other,True,0,6,True,10617,14,758.3571428571429,coder1,20261017,False
+ls17-s1-U-5157-20190724,main,ls17|unstarred|other|other|q1,17,unstarred,RAILWAYS,other,False,1,5,True,8074,9,897.1111111111111,coder1,20261017,False
+ls17-s1-U-5708-20190726,main,ls17|unstarred|other|other|q1,17,unstarred,WOMEN AND CHILD DEVELOPMENT,other,False,1,4,True,8074,9,897.1111111111111,coder1,20261017,False
+ls17-s15-U-1049-20240208,main,ls17|unstarred|other|other|q1,17,unstarred,HOUSING AND URBAN AFFAIRS,other,False,1,2,True,8074,9,897.1111111111111,coder1;coder2,20261017,True
+ls17-s3-U-1779-20200302,main,ls17|unstarred|other|other|q1,17,unstarred,TOURISM,other,False,1,2,True,8074,9,897.1111111111111,coder1;coder2,20261017,True
+ls17-s4-U-1918-20200922,main,ls17|unstarred|other|other|q1,17,unstarred,"MICRO,SMALL AND MEDIUM ENTERPRISES",other,False,1,3,True,8074,9,897.1111111111111,coder1,20261017,False
+ls17-s5-U-1078-20210208,main,ls17|unstarred|other|other|q1,17,unstarred,TOURISM,other,False,1,6,True,8074,9,897.1111111111111,coder1;coder2,20261017,True
+ls17-s5-U-4910-20210325,main,ls17|unstarred|other|other|q1,17,unstarred,HOUSING AND URBAN AFFAIRS,other,False,1,3,True,8074,9,897.1111111111111,coder1,20261017,False
+ls17-s6-U-2778-20210805,main,ls17|unstarred|other|other|q1,17,unstarred,MINORITY AFFAIRS,other,False,1,5,True,8074,9,897.1111111111111,coder2,20261017,False
+ls17-s8-U-325-20220203,main,ls17|unstarred|other|other|q1,17,unstarred,ROAD TRANSPORT AND HIGHWAYS,other,False,1,6,True,8074,9,897.1111111111111,coder1,20261017,False
+ls17-s1-U-1069-20190627,main,ls17|unstarred|other|other|q2,17,unstarred,"MICRO,SMALL AND MEDIUM ENTERPRISES",other,False,2,3,True,8073,8,1009.125,coder1;coder2,20261017,True
+ls17-s1-U-1475-20190701,main,ls17|unstarred|other|other|q2,17,unstarred,PETROLEUM AND NATURAL GAS,other,False,2,6,True,8073,8,1009.125,coder1;coder2,20261017,True
+ls17-s11-U-3265-20230321,main,ls17|unstarred|other|other|q2,17,unstarred,AGRICULTURE AND FARMERS WELFARE,other,False,2,5,True,8073,8,1009.125,coder1,20261017,False
+ls17-s15-U-397-20240205,main,ls17|unstarred|other|other|q2,17,unstarred,"ENVIRONMENT, FORESTS AND CLIMATE CHANGE",other,False,2,5,True,8073,8,1009.125,coder2,20261017,False
+ls17-s3-U-500-20200205,main,ls17|unstarred|other|other|q2,17,unstarred,COMMERCE AND INDUSTRY,other,False,2,3,True,8073,8,1009.125,coder2,20261017,False
+ls17-s5-U-3126-20210315,main,ls17|unstarred|other|other|q2,17,unstarred,EDUCATION,other,False,2,2,True,8073,8,1009.125,coder1,20261017,False
+ls17-s5-U-3411-20210316,main,ls17|unstarred|other|other|q2,17,unstarred,RURAL DEVELOPMENT,other,False,2,4,True,8073,8,1009.125,coder1,20261017,False
+ls17-s8-U-1981-20220314,main,ls17|unstarred|other|other|q2,17,unstarred,LABOUR AND EMPLOYMENT,other,False,2,4,True,8073,8,1009.125,coder1;coder2,20261017,True
+ls17-s10-U-1702-20221216,main,ls17|unstarred|other|other|q3,17,unstarred,HEALTH AND FAMILY WELFARE,other,False,3,5,True,8073,8,1009.125,coder2,20261017,False
+ls17-s11-U-3593-20230322,main,ls17|unstarred|other|other|q3,17,unstarred,EARTH SCIENCES,other,False,3,3,True,8073,8,1009.125,coder1;coder2,20261017,True
+ls17-s14-U-95-20231204,main,ls17|unstarred|other|other|q3,17,unstarred,"ENVIRONMENT, FORESTS AND CLIMATE CHANGE",other,False,3,4,True,8073,8,1009.125,coder1,20261017,False
+ls17-s2-U-3615-20191210,main,ls17|unstarred|other|other|q3,17,unstarred,RURAL DEVELOPMENT,other,False,3,5,True,8073,8,1009.125,coder2,20261017,False
+ls17-s3-U-1913-20200303,main,ls17|unstarred|other|other|q3,17,unstarred,SOCIAL JUSTICE AND EMPOWERMENT,other,False,3,5,True,8073,8,1009.125,coder2,20261017,False
+ls17-s8-U-1356-20220209,main,ls17|unstarred|other|other|q3,17,unstarred,COMMUNICATIONS,other,False,3,5,True,8073,8,1009.125,coder1,20261017,False
+ls17-s8-U-1825-20220211,main,ls17|unstarred|other|other|q3,17,unstarred,"PORTS, SHIPPING AND WATERWAYS",other,False,3,5,True,8073,8,1009.125,coder1;coder2,20261017,True
+ls17-s8-U-2962-20220321,main,ls17|unstarred|other|other|q3,17,unstarred,SKILL DEVELOPMENT AND ENTREPRENEURSHIP,other,False,3,4,True,8073,8,1009.125,coder1,20261017,False
+ls17-s10-U-1722-20221216,main,ls17|unstarred|other|other|q4,17,unstarred,CHEMICALS AND FERTILIZERS,other,False,4,2,True,8073,8,1009.125,coder2,20261017,False
+ls17-s14-U-1964-20231214,main,ls17|unstarred|other|other|q4,17,unstarred,PETROLEUM AND NATURAL GAS,other,False,4,5,True,8073,8,1009.125,coder1;coder2,20261017,True
+ls17-s15-U-408-20240205,main,ls17|unstarred|other|other|q4,17,unstarred,FINANCE,other,False,4,6,True,8073,8,1009.125,coder2,20261017,False
+ls17-s3-U-261-20200204,main,ls17|unstarred|other|other|q4,17,unstarred,SOCIAL JUSTICE AND EMPOWERMENT,other,False,4,3,True,8073,8,1009.125,coder1;coder2,20261017,True
+ls17-s4-U-787-20200917,main,ls17|unstarred|other|other|q4,17,unstarred,CIVIL AVIATION,other,False,4,2,True,8073,8,1009.125,coder1,20261017,False
+ls17-s8-U-2562-20220317,main,ls17|unstarred|other|other|q4,17,unstarred,NEW AND RENEWABLE ENERGY,other,False,4,5,True,8073,8,1009.125,coder2,20261017,False
+ls17-s8-U-258-20220203,main,ls17|unstarred|other|other|q4,17,unstarred,CIVIL AVIATION,other,False,4,3,True,8073,8,1009.125,coder1,20261017,False
+ls17-s8-U-3443-20220323,main,ls17|unstarred|other|other|q4,17,unstarred,EARTH SCIENCES,other,False,4,5,True,8073,8,1009.125,coder1;coder2,20261017,True
+ls17-s1-U-4322-20190718,main,ls17|unstarred|other|other|q5,17,unstarred,CIVIL AVIATION,other,False,5,4,True,8073,8,1009.125,coder1;coder2,20261017,True
+ls17-s14-U-2700-20231219,main,ls17|unstarred|other|other|q5,17,unstarred,PANCHAYATI RAJ,other,False,5,4,True,8073,8,1009.125,coder2,20261017,False
+ls17-s2-U-2169-20191202,main,ls17|unstarred|other|other|q5,17,unstarred,HUMAN RESOURCE DEVELOPMENT,other,False,5,4,True,8073,8,1009.125,coder2,20261017,False
+ls17-s2-U-2846-20191205,main,ls17|unstarred|other|other|q5,17,unstarred,MINORITY AFFAIRS,other,False,5,2,True,8073,8,1009.125,coder1,20261017,False
+ls17-s2-U-3657-20191210,main,ls17|unstarred|other|other|q5,17,unstarred,AGRICULTURE AND FARMERS WELFARE,other,False,5,4,True,8073,8,1009.125,coder1,20261017,False
+ls17-s3-U-2891-20200311,main,ls17|unstarred|other|other|q5,17,unstarred,COAL,other,False,5,6,True,8073,8,1009.125,coder2,20261017,False
+ls17-s3-U-3017-20200312,main,ls17|unstarred|other|other|q5,17,unstarred,MINORITY AFFAIRS,other,False,5,5,True,8073,8,1009.125,coder2,20261017,False
+ls17-s5-U-1238-20210209,main,ls17|unstarred|other|other|q5,17,unstarred,SOCIAL JUSTICE AND EMPOWERMENT,other,False,5,3,True,8073,8,1009.125,coder2,20261017,False
+ls17-s3-U-319-20200204,main,ls17|unstarred|security|boiler,17,unstarred,HOME AFFAIRS,security,True,0,3,True,679,3,226.33333333333334,coder1,20261017,False
+ls17-s9-U-1389-20220726,main,ls17|unstarred|security|boiler,17,unstarred,HOME AFFAIRS,security,True,0,3,True,679,3,226.33333333333334,coder2,20261017,False
+ls17-s9-U-2656-20220802,main,ls17|unstarred|security|boiler,17,unstarred,HOME AFFAIRS,security,True,0,2,True,679,3,226.33333333333334,coder1,20261017,False
+ls17-s12-U-3755-20230811,main,ls17|unstarred|security|other|q1,17,unstarred,EXTERNAL AFFAIRS,security,False,1,4,True,493,2,246.5,coder2,20261017,False
+ls17-s9-U-1478-20220726,main,ls17|unstarred|security|other|q1,17,unstarred,HOME AFFAIRS,security,False,1,5,True,493,2,246.5,coder1;coder2,20261017,True
+ls17-s3-U-3837-20200317,main,ls17|unstarred|security|other|q2,17,unstarred,HOME AFFAIRS,security,False,2,4,True,492,2,246.0,coder2,20261017,False
+ls17-s5-U-2337-20210309,main,ls17|unstarred|security|other|q2,17,unstarred,HOME AFFAIRS,security,False,2,4,True,492,2,246.0,coder2,20261017,False
+ls17-s5-U-3258-20210316,main,ls17|unstarred|security|other|q3,17,unstarred,HOME AFFAIRS,security,False,3,3,True,493,2,246.5,coder2,20261017,False
+ls17-s8-U-500-20220204,main,ls17|unstarred|security|other|q3,17,unstarred,DEFENCE,security,False,3,4,True,493,2,246.5,coder1,20261017,False
+ls17-s1-U-4887-20190723,main,ls17|unstarred|security|other|q4,17,unstarred,HOME AFFAIRS,security,False,4,4,True,492,2,246.0,coder1,20261017,False
+ls17-s8-U-605-20220204,main,ls17|unstarred|security|other|q4,17,unstarred,EXTERNAL AFFAIRS,security,False,4,5,True,492,2,246.0,coder1,20261017,False
+ls17-s4-U-1716-20200921,main,ls17|unstarred|security|other|q5,17,unstarred,DEFENCE,security,False,5,4,True,493,2,246.5,coder1;coder2,20261017,True
+ls17-s5-U-2719-20210310,main,ls17|unstarred|security|other|q5,17,unstarred,DEFENCE,security,False,5,5,True,493,2,246.5,coder1;coder2,20261017,True
+ls18-s3-S-242-20241212,main,ls18|starred|other|boiler,18,starred,"MICRO, SMALL AND MEDIUM ENTERPRISES",other,True,0,3,True,541,4,135.25,coder1,20261017,False
+ls18-s3-S-92-20241202,main,ls18|starred|other|boiler,18,starred,CULTURE,other,True,0,6,True,541,4,135.25,coder2,20261017,False
+ls18-s7-S-299-20260312,main,ls18|starred|other|boiler,18,starred,HOUSING AND URBAN AFFAIRS,other,True,0,5,True,541,4,135.25,coder2,20261017,False
+ls18-s8-S-295-20260807,main,ls18|starred|other|boiler,18,starred,HEALTH AND FAMILY WELFARE,other,True,0,4,True,541,4,135.25,coder1,20261017,False
+ls18-s4-S-420-20250328,main,ls18|starred|other|other|q1,18,starred,"PORTS, SHIPPING AND WATERWAYS",other,False,1,5,True,405,3,135.0,coder2,20261017,False
+ls18-s7-S-373-20260318,main,ls18|starred|other|other|q1,18,starred,RAILWAYS,other,False,1,3,True,405,3,135.0,coder2,20261017,False
+ls18-s7-S-384-20260319,main,ls18|starred|other|other|q1,18,starred,ROAD TRANSPORT AND HIGHWAYS,other,False,1,3,True,405,3,135.0,coder2,20261017,False
+ls18-s5-S-413-20250821,main,ls18|starred|other|other|q2,18,starred,ROAD TRANSPORT AND HIGHWAYS,other,False,2,3,True,405,3,135.0,coder1;coder2,20261017,True
+ls18-s8-S-250-20260805,main,ls18|starred|other|other|q2,18,starred,RAILWAYS,other,False,2,4,True,405,3,135.0,coder2,20261017,False
+ls18-s8-S-307-20260810,main,ls18|starred|other|other|q2,18,starred,TOURISM,other,False,2,5,True,405,3,135.0,coder1,20261017,False
+ls18-s3-S-208-20241210,main,ls18|starred|other|other|q3,18,starred,AGRICULTURE AND FARMERS WELFARE,other,False,3,4,True,404,2,202.0,coder2,20261017,False
+ls18-s7-S-8-20260129,main,ls18|starred|other|other|q3,18,starred,ROAD TRANSPORT AND HIGHWAYS,other,False,3,3,True,404,2,202.0,coder2,20261017,False
+ls18-s2-S-164-20240802,main,ls18|starred|other|other|q4,18,starred,HEALTH AND FAMILY WELFARE,other,False,4,4,True,405,3,135.0,coder2,20261017,False
+ls18-s7-S-27-20260202,main,ls18|starred|other|other|q4,18,starred,EDUCATION,other,False,4,4,True,405,3,135.0,coder2,20261017,False
+ls18-s7-S-549-20260402,main,ls18|starred|other|other|q4,18,starred,FOOD PROCESSING INDUSTRIES,other,False,4,5,True,405,3,135.0,coder1;coder2,20261017,True
+ls18-s6-S-141-20251210,main,ls18|starred|other|other|q5,18,starred,COAL,other,False,5,4,True,405,2,202.5,coder2,20261017,False
+ls18-s7-S-295-20260312,main,ls18|starred|other|other|q5,18,starred,CIVIL AVIATION,other,False,5,4,True,405,2,202.5,coder2,20261017,False
+ls18-s7-S-489-20260327,main,ls18|starred|security|boiler,18,starred,EXTERNAL AFFAIRS,security,True,0,4,True,7,2,3.5,coder1,20261017,False
+ls18-s8-S-135-20260728,main,ls18|starred|security|boiler,18,starred,HOME AFFAIRS,security,True,0,5,True,7,2,3.5,coder1,20261017,False
+ls18-s3-S-265-20241213,main,ls18|starred|security|other|q123,18,starred,EXTERNAL AFFAIRS,security,False,2,5,True,35,1,35.0,coder2,20261017,False
+ls18-s6-S-99-20251205,main,ls18|starred|security|other|q45,18,starred,EXTERNAL AFFAIRS,security,False,5,5,True,23,1,23.0,coder1;coder2,20261017,True
+ls18-s6-S-266-20251218,main,m1_missing|ls18,18,starred,CIVIL AVIATION,other,False,0,3,True,4,1,4.0,coder1;coder2,20261017,True
+ls18-s2-U-723-20240726,main,ls18|unstarred|other|boiler,18,unstarred,HEALTH AND FAMILY WELFARE,other,True,0,5,True,5635,14,402.5,coder1;coder2,20261017,True
+ls18-s3-U-1624-20241205,main,ls18|unstarred|other|boiler,18,unstarred,HOUSING AND URBAN AFFAIRS,other,True,0,4,True,5635,14,402.5,coder1,20261017,False
+ls18-s3-U-2091-20241209,main,ls18|unstarred|other|boiler,18,unstarred,YOUTH AFFAIRS AND SPORTS,other,True,0,5,True,5635,14,402.5,coder2,20261017,False
+ls18-s3-U-3811-20241218,main,ls18|unstarred|other|boiler,18,unstarred,MINORITY AFFAIRS,other,True,0,5,True,5635,14,402.5,coder2,20261017,False
+ls18-s3-U-476-20241128,main,ls18|unstarred|other|boiler,18,unstarred,JAL SHAKTI,other,True,0,3,True,5635,14,402.5,coder1;coder2,20261017,True
+ls18-s4-U-1756-20250310,main,ls18|unstarred|other|boiler,18,unstarred,YOUTH AFFAIRS AND SPORTS,other,True,0,4,True,5635,14,402.5,coder1;coder2,20261017,True
+ls18-s4-U-2550-20250317,main,ls18|unstarred|other|boiler,18,unstarred,YOUTH AFFAIRS AND SPORTS,other,True,0,5,True,5635,14,402.5,coder1,20261017,False
+ls18-s5-U-1143-20250725,main,ls18|unstarred|other|boiler,18,unstarred,HEALTH AND FAMILY WELFARE,other,True,0,5,True,5635,14,402.5,coder1,20261017,False
+ls18-s5-U-1485-20250729,main,ls18|unstarred|other|boiler,18,unstarred,RURAL DEVELOPMENT,other,True,0,4,True,5635,14,402.5,coder2,20261017,False
+ls18-s6-U-2949-20251217,main,ls18|unstarred|other|boiler,18,unstarred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,True,0,3,True,5635,14,402.5,coder1,20261017,False
+ls18-s7-U-3612-20260313,main,ls18|unstarred|other|boiler,18,unstarred,HEALTH AND FAMILY WELFARE,other,True,0,3,True,5635,14,402.5,coder1,20261017,False
+ls18-s7-U-696-20260204,main,ls18|unstarred|other|boiler,18,unstarred,EARTH SCIENCES,other,True,0,5,True,5635,14,402.5,coder1;coder2,20261017,True
+ls18-s8-U-1329-20260727,main,ls18|unstarred|other|boiler,18,unstarred,LABOUR AND EMPLOYMENT,other,True,0,3,True,5635,14,402.5,coder1,20261017,False
+ls18-s8-U-716-20260723,main,ls18|unstarred|other|boiler,18,unstarred,CIVIL AVIATION,other,True,0,5,True,5635,14,402.5,coder2,20261017,False
+ls18-s2-U-2865-20240808,main,ls18|unstarred|other|other|q1,18,unstarred,CIVIL AVIATION,other,False,1,3,True,4776,9,530.6666666666666,coder1;coder2,20261017,True
+ls18-s2-U-685-20240725,main,ls18|unstarred|other|other|q1,18,unstarred,POWER,other,False,1,5,True,4776,9,530.6666666666666,coder2,20261017,False
+ls18-s3-U-104-20241125,main,ls18|unstarred|other|other|q1,18,unstarred,EDUCATION,other,False,1,5,True,4776,9,530.6666666666666,coder1;coder2,20261017,True
+ls18-s4-U-610-20250206,main,ls18|unstarred|other|other|q1,18,unstarred,ROAD TRANSPORT AND HIGHWAYS,other,False,1,4,True,4776,9,530.6666666666666,coder1,20261017,False
+ls18-s4-U-962-20250210,main,ls18|unstarred|other|other|q1,18,unstarred,LABOUR AND EMPLOYMENT,other,False,1,5,True,4776,9,530.6666666666666,coder1,20261017,False
+ls18-s6-U-83-20251201,main,ls18|unstarred|other|other|q1,18,unstarred,SKILL DEVELOPMENT AND ENTREPRENEURSHIP,other,False,1,4,True,4776,9,530.6666666666666,coder2,20261017,False
+ls18-s7-U-3853-20260316,main,ls18|unstarred|other|other|q1,18,unstarred,SKILL DEVELOPMENT AND ENTREPRENEURSHIP,other,False,1,6,True,4776,9,530.6666666666666,coder2,20261017,False
+ls18-s8-U-2405-20260803,main,ls18|unstarred|other|other|q1,18,unstarred,LABOUR AND EMPLOYMENT,other,False,1,4,True,4776,9,530.6666666666666,coder1;coder2,20261017,True
+ls18-s8-U-3201-20260806,main,ls18|unstarred|other|other|q1,18,unstarred,HOUSING AND URBAN AFFAIRS,other,False,1,3,True,4776,9,530.6666666666666,coder1,20261017,False
+ls18-s2-U-461-20240725,main,ls18|unstarred|other|other|q2,18,unstarred,TRIBAL AFFAIRS,other,False,2,4,True,4776,9,530.6666666666666,coder2,20261017,False
+ls18-s3-U-483-20241128,main,ls18|unstarred|other|other|q2,18,unstarred,PETROLEUM AND NATURAL GAS,other,False,2,4,True,4776,9,530.6666666666666,coder1,20261017,False
+ls18-s6-U-385-20251202,main,ls18|unstarred|other|other|q2,18,unstarred,AGRICULTURE AND FARMERS WELFARE,other,False,2,3,True,4776,9,530.6666666666666,coder1,20261017,False
+ls18-s7-U-5931-20260330,main,ls18|unstarred|other|other|q2,18,unstarred,EDUCATION,other,False,2,3,True,4776,9,530.6666666666666,coder2,20261017,False
+ls18-s7-U-6123-20260401,main,ls18|unstarred|other|other|q2,18,unstarred,INFORMATION AND BROADCASTING,other,False,2,5,True,4776,9,530.6666666666666,coder1,20261017,False
+ls18-s8-U-1168-20260727,main,ls18|unstarred|other|other|q2,18,unstarred,EDUCATION,other,False,2,6,True,4776,9,530.6666666666666,coder1,20261017,False
+ls18-s8-U-1781-20260729,main,ls18|unstarred|other|other|q2,18,unstarred,ELECTRONICS AND INFORMATION TECHNOLOGY,other,False,2,5,True,4776,9,530.6666666666666,coder1,20261017,False
+ls18-s8-U-3387-20260807,main,ls18|unstarred|other|other|q2,18,unstarred,"PORTS, SHIPPING AND WATERWAYS",other,False,2,3,True,4776,9,530.6666666666666,coder1;coder2,20261017,True
+ls18-s8-U-544-20260722,main,ls18|unstarred|other|other|q2,18,unstarred,"CONSUMER AFFAIRS, FOOD AND PUBLIC DISTRIBUTION",other,False,2,6,True,4776,9,530.6666666666666,coder1;coder2,20261017,True
+ls18-s2-U-985-20240729,main,ls18|unstarred|other|other|q3,18,unstarred,"ENVIRONMENT, FOREST AND CLIMATE CHANGE",other,False,3,4,True,4775,8,596.875,coder2,20261017,False
+ls18-s4-U-1937-20250311,main,ls18|unstarred|other|other|q3,18,unstarred,SOCIAL JUSTICE AND EMPOWERMENT,other,False,3,5,True,4775,8,596.875,coder1,20261017,False
+ls18-s4-U-3264-20250320,main,ls18|unstarred|other|other|q3,18,unstarred,HOUSING AND URBAN AFFAIRS,other,False,3,4,True,4775,8,596.875,coder1,20261017,False
+ls18-s6-U-1939-20251211,main,ls18|unstarred|other|other|q3,18,unstarred,ROAD TRANSPORT AND HIGHWAYS,other,False,3,3,True,4775,8,596.875,coder1,20261017,False
+ls18-s6-U-2586-20251216,main,ls18|unstarred|other|other|q3,18,unstarred,RURAL DEVELOPMENT,other,False,3,5,True,4775,8,596.875,coder1,20261017,False
+ls18-s6-U-2737-20251216,main,ls18|unstarred|other|other|q3,18,unstarred,"FISHERIES, ANIMAL HUSBANDRY AND DAIRYING",other,False,3,5,True,4775,8,596.875,coder2,20261017,False
+ls18-s6-U-979-20251205,main,ls18|unstarred|other|other|q3,18,unstarred,CHEMICALS AND FERTILIZERS,other,False,3,5,True,4775,8,596.875,coder1;coder2,20261017,True
+ls18-s8-U-110-20260720,main,ls18|unstarred|other|other|q3,18,unstarred,FINANCE,other,False,3,4,True,4775,8,596.875,coder1,20261017,False
+ls18-s3-U-1607-20241204,main,ls18|unstarred|other|other|q4,18,unstarred,RAILWAYS,other,False,4,3,True,4776,9,530.6666666666666,coder1,20261017,False
+ls18-s3-U-28-20241125,main,ls18|unstarred|other|other|q4,18,unstarred,SKILL DEVELOPMENT AND ENTREPRENEURSHIP,other,False,4,4,True,4776,9,530.6666666666666,coder2,20261017,False
+ls18-s4-U-2836-20250318,main,ls18|unstarred|other|other|q4,18,unstarred,AGRICULTURE AND FARMERS WELFARE,other,False,4,4,True,4776,9,530.6666666666666,coder2,20261017,False
+ls18-s5-U-1978-20250731,main,ls18|unstarred|other|other|q4,18,unstarred,CIVIL AVIATION,other,False,4,3,True,4776,9,530.6666666666666,coder2,20261017,False
+ls18-s5-U-2776-20250806,main,ls18|unstarred|other|other|q4,18,unstarred,ELECTRONICS AND INFORMATION TECHNOLOGY,other,False,4,5,True,4776,9,530.6666666666666,coder1,20261017,False
+ls18-s6-U-1419-20251209,main,ls18|unstarred|other|other|q4,18,unstarred,RURAL DEVELOPMENT,other,False,4,5,True,4776,9,530.6666666666666,coder1;coder2,20261017,True
+ls18-s7-U-1255-20260206,main,ls18|unstarred|other|other|q4,18,unstarred,CHEMICALS AND FERTILIZERS,other,False,4,5,True,4776,9,530.6666666666666,coder1;coder2,20261017,True
+ls18-s7-U-4313-20260318,main,ls18|unstarred|other|other|q4,18,unstarred,ELECTRONICS AND INFORMATION TECHNOLOGY,other,False,4,3,True,4776,9,530.6666666666666,coder1;coder2,20261017,True
+ls18-s8-U-3897-20260811,main,ls18|unstarred|other|other|q4,18,unstarred,RURAL DEVELOPMENT,other,False,4,5,True,4776,9,530.6666666666666,coder1,20261017,False
+ls18-s2-U-2956-20240808,main,ls18|unstarred|other|other|q5,18,unstarred,JAL SHAKTI,other,False,5,5,True,4776,8,597.0,coder2,20261017,False
+ls18-s3-U-2062-20241206,main,ls18|unstarred|other|other|q5,18,unstarred,HEALTH AND FAMILY WELFARE,other,False,5,4,True,4776,8,597.0,coder1,20261017,False
+ls18-s4-U-279-20250204,main,ls18|unstarred|other|other|q5,18,unstarred,COOPERATION,other,False,5,5,True,4776,8,597.0,coder1;coder2,20261017,True
+ls18-s4-U-5565-20250404,main,ls18|unstarred|other|other|q5,18,unstarred,HEALTH AND FAMILY WELFARE,other,False,5,2,True,4776,8,597.0,coder2,20261017,False
+ls18-s7-U-6031-20260401,main,ls18|unstarred|other|other|q5,18,unstarred,EARTH SCIENCES,other,False,5,4,True,4776,8,597.0,coder1;coder2,20261017,True
+ls18-s7-U-6077-20260401,main,ls18|unstarred|other|other|q5,18,unstarred,COAL,other,False,5,4,True,4776,8,597.0,coder1,20261017,False
+ls18-s8-U-1127-20260724,main,ls18|unstarred|other|other|q5,18,unstarred,HEALTH AND FAMILY WELFARE,other,False,5,4,True,4776,8,597.0,coder2,20261017,False
+ls18-s8-U-3990-20260812,main,ls18|unstarred|other|other|q5,18,unstarred,STATISTICS AND PROGRAMME IMPLEMENTATION,other,False,5,4,True,4776,8,597.0,coder1,20261017,False
+ls18-s4-U-5559-20250404,main,ls18|unstarred|security|boiler,18,unstarred,EXTERNAL AFFAIRS,security,True,0,4,True,165,2,82.5,coder1;coder2,20261017,True
+ls18-s4-U-877-20250207,main,ls18|unstarred|security|boiler,18,unstarred,EXTERNAL AFFAIRS,security,True,0,3,True,165,2,82.5,coder1,20261017,False
+ls18-s3-U-4230-20241220,main,ls18|unstarred|security|other|q1,18,unstarred,EXTERNAL AFFAIRS,security,False,1,3,True,193,2,96.5,coder1,20261017,False
+ls18-s5-U-2667-20250805,main,ls18|unstarred|security|other|q1,18,unstarred,HOME AFFAIRS,security,False,1,2,True,193,2,96.5,coder1,20261017,False
+ls18-s2-U-3100-20240809,main,ls18|unstarred|security|other|q2,18,unstarred,EXTERNAL AFFAIRS,security,False,2,3,True,193,2,96.5,coder1,20261017,False
+ls18-s7-U-3632-20260313,main,ls18|unstarred|security|other|q2,18,unstarred,EXTERNAL AFFAIRS,security,False,2,4,True,193,2,96.5,coder1;coder2,20261017,True
+ls18-s5-U-3805-20250812,main,ls18|unstarred|security|other|q3,18,unstarred,HOME AFFAIRS,security,False,3,3,True,192,1,192.0,coder2,20261017,False
+ls18-s5-U-2533-20250805,main,ls18|unstarred|security|other|q4,18,unstarred,HOME AFFAIRS,security,False,4,2,True,193,2,96.5,coder1,20261017,False
+ls18-s7-U-2897-20260310,main,ls18|unstarred|security|other|q4,18,unstarred,HOME AFFAIRS,security,False,4,5,True,193,2,96.5,coder1,20261017,False
+ls18-s2-U-1889-20240802,main,ls18|unstarred|security|other|q5,18,unstarred,EXTERNAL AFFAIRS,security,False,5,3,True,193,2,96.5,coder2,20261017,False
+ls18-s7-U-634-20260203,main,ls18|unstarred|security|other|q5,18,unstarred,HOME AFFAIRS,security,False,5,5,True,193,2,96.5,coder1,20261017,False
+ls13-s12-S-220-20030305,main,sanity_no_answer,13,starred,COMMUNICATIONS AND INFORMATION TECHNOLOGY,other,False,0,5,False,572,20,28.6,coder1;coder2,20261017,True
+ls13-s13-S-16-20030721,main,sanity_no_answer,13,starred,TOURISM AND CULTURE,other,False,0,3,False,572,20,28.6,coder1;coder2,20261017,True
+ls13-s13-S-323-20030813,main,sanity_no_answer,13,starred,COMMUNICATIONS AND INFORMATION TECHNOLOGY,other,False,0,5,False,572,20,28.6,coder1;coder2,20261017,True
+ls13-s5-S-94-20001124,main,sanity_no_answer,13,starred,FINANCE,other,False,0,4,False,572,20,28.6,coder1;coder2,20261017,True
+ls13-s7-S-367-20010817,main,sanity_no_answer,13,starred,COMMERCE AND INDUSTRY,other,False,0,5,False,572,20,28.6,coder1;coder2,20261017,True
+ls13-s12-U-5075-20030425,main,sanity_no_answer,13,unstarred,LAW AND JUSTICE,other,False,0,5,False,572,20,28.6,coder1;coder2,20261017,True
+ls13-s3-U-7976-20000517,main,sanity_no_answer,13,unstarred,LABOUR,other,False,0,3,False,572,20,28.6,coder1;coder2,20261017,True
+ls13-s7-U-3387-20010813,main,sanity_no_answer,13,unstarred,LABOUR,other,False,0,4,False,572,20,28.6,coder1;coder2,20261017,True
+ls14-s12-S-288-20071205,main,sanity_no_answer,14,starred,HEALTH AND FAMILY WELFARE,other,False,0,4,False,572,20,28.6,coder1;coder2,20261017,True
+ls14-s10-U-736-20070305,main,sanity_no_answer,14,unstarred,AGRICULTURE,other,False,0,4,False,572,20,28.6,coder1;coder2,20261017,True
+ls15-s8-S-454-20110905,main,sanity_no_answer,15,starred,ENVIRONMENT AND FORESTS,other,False,0,6,False,572,20,28.6,coder1;coder2,20261017,True
+ls16-s11-S-411-20170330,main,sanity_no_answer,16,starred,CIVIL AVIATION,other,False,0,3,False,572,20,28.6,coder1;coder2,20261017,True
+ls16-s11-S-72-20170207,main,sanity_no_answer,16,starred,SOCIAL JUSTICE AND EMPOWERMENT,other,False,0,5,False,572,20,28.6,coder1;coder2,20261017,True
+ls16-s12-S-178-20170727,main,sanity_no_answer,16,starred,CIVIL AVIATION,other,False,0,4,False,572,20,28.6,coder1;coder2,20261017,True
+ls16-s5-S-162-20150731,main,sanity_no_answer,16,starred,FINANCE,other,False,0,5,False,572,20,28.6,coder1;coder2,20261017,True
+ls17-s1-S-267-20190711,main,sanity_no_answer,17,starred,CIVIL AVIATION,other,False,0,3,False,572,20,28.6,coder1;coder2,20261017,True
+ls18-s3-U-1290-20241203,main,sanity_no_answer,18,unstarred,STEEL,other,False,0,2,False,572,20,28.6,coder1;coder2,20261017,True
+ls18-s4-U-368-20250204,main,sanity_no_answer,18,unstarred,PANCHAYATI RAJ,other,False,0,1,False,572,20,28.6,coder1;coder2,20261017,True
+ls18-s5-U-788-20250724,main,sanity_no_answer,18,unstarred,JAL SHAKTI,other,False,0,6,False,572,20,28.6,coder1;coder2,20261017,True
+ls18-s8-U-3130-20260806,main,sanity_no_answer,18,unstarred,CIVIL AVIATION,other,False,0,1,False,572,20,28.6,coder1;coder2,20261017,True

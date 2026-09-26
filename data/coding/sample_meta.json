@@ -1,0 +1,57 @@
+{
+  "seed": 20261017,
+  "pilot_n": 50,
+  "main_estimate_n": 400,
+  "main_sanity_n": 20,
+  "boiler_share_target": 0.25,
+  "pilot_kept_from_existing_file": true,
+  "ls_share": "17,18:0.45",
+  "ls_share_parsed": {
+    "ls": [
+      17,
+      18
+    ],
+    "share": 0.45
+  },
+  "main_estimate_n_by_ls": {
+    "13": 54,
+    "14": 51,
+    "15": 57,
+    "16": 58,
+    "17": 90,
+    "18": 90
+  },
+  "double_n_target": 100,
+  "coder_assignment_estimate": {
+    "double_coded": 100,
+    "single_coder1": 150,
+    "single_coder2": 150,
+    "sanity_coded_by_both": 20
+  },
+  "alloc_power": 0.5,
+  "min_per_cell": 2,
+  "coders": [
+    "coder1",
+    "coder2"
+  ],
+  "m1_available": true,
+  "m1_score_source": "m1_question.parquet:m1_part_mean",
+  "n_m1_missing_nonboiler_universe": 20,
+  "ministry_group_source": "ministry_group column",
+  "universe_qid_hash": "d1e6053a0f17d820",
+  "exclusions": {
+    "n_questions_total": 393501,
+    "n_no_question_or_no_parts": 235,
+    "n_no_answer": 602,
+    "n_answered": 392664,
+    "n_excluded_qa_mismatch_or_garbled": 186,
+    "n_excluded_qa_mismatch_or_garbled_with_le_max_parts": 177,
+    "n_answered_gt_max_parts": 13641,
+    "share_answered_excluded_gt_max_parts": 0.034739624717315565,
+    "share_answered_parts_excluded_gt_max_parts": 0.06363986719401782,
+    "n_estimate_universe": 378846,
+    "n_sanity_universe": 572,
+    "max_parts": 6
+  },
+  "note": "Weights are w.r.t. the corpus snapshot identified by universe_qid_hash; run --reweight after the corpus changes."
+}
