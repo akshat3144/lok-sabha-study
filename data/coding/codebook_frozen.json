@@ -1,0 +1,23 @@
+{
+  "codebook_version": "v1.2",
+  "frozen_at": "2026-10-17T21:30:33",
+  "codebook_py_sha256": "30ab0acbfd85bc8e6d72ffa3c715c9a972ae9ef7a0b7108ffb65ba38ca4ca6ed",
+  "CODEBOOK_md_sha256": "3bb3c4873707c35305debe24126f25e229dcf6a7bc58dc9c2bf3cf53d1b34917",
+  "n_rules": 18,
+  "evasion_types": [
+    "DEFERRAL",
+    "NOT_MAINTAINED",
+    "JURISDICTION",
+    "WITHHELD",
+    "DOES_NOT_ARISE",
+    "DIFFERENT_QUESTION",
+    "INCOMPLETE",
+    "ANNEXURE_ONLY",
+    "GENERIC",
+    "OTHER"
+  ],
+  "renames": {
+    "PROCEDURAL": "WITHHELD"
+  },
+  "supersedes": "v1.1 (data/coding/codebook_v1.1_frozen.json) \u2014 revised from coders' written pilot feedback before any main-sample or Gemini label existed"
+}
