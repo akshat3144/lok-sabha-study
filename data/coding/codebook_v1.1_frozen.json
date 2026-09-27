@@ -1,0 +1,13 @@
+{
+  "codebook_version": "v1.1",
+  "frozen_at": "2026-10-17T21:19:27",
+  "codebook_py_sha256": "fe7e91a745d5b44a8e3502dfaa508ef79ad3e1c072fbf1847464f644706ed525",
+  "CODEBOOK_md_sha256": "2573df61a0373e6fa0878c209aea577d550f16862f284946d3783ef1b0a5d20e",
+  "n_rules": 20,
+  "pilot": {
+    "parts": 194,
+    "kappa_label": 0.842,
+    "alpha_ordinal": 0.879,
+    "adjudicated": 30
+  }
+}
