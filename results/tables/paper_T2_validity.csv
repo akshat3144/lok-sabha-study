@@ -1,0 +1,27 @@
+Panel,Comparison,n parts,Metric,Estimate,CI lo,CI hi,Note
+A. Human inter-coder reliability (double-coded estimate parts),Responsiveness label (FULL/PARTIAL/NONE),413,% agreement,86.92493946731234,,,
+A. Human inter-coder reliability (double-coded estimate parts),Responsiveness label (FULL/PARTIAL/NONE),413,Cohen's kappa,0.7080546137634014,,,
+A. Human inter-coder reliability (double-coded estimate parts),Responsiveness label (FULL/PARTIAL/NONE),413,Linear-weighted kappa,0.7284897503834891,,,
+A. Human inter-coder reliability (double-coded estimate parts),Responsiveness label (FULL/PARTIAL/NONE),413,Krippendorff alpha (nominal),0.7073487968783871,0.6244916931441952,0.7836182808867698,
+A. Human inter-coder reliability (double-coded estimate parts),Responsiveness label (FULL/PARTIAL/NONE),413,Krippendorff alpha (ordinal),0.7518149275627763,0.6533513314508527,0.838860792885388,
+A. Human inter-coder reliability (double-coded estimate parts),Evasion type,413,% agreement,85.95641646489103,,,
+A. Human inter-coder reliability (double-coded estimate parts),Evasion type,413,Cohen's kappa,0.7044977918136734,,,
+A. Human inter-coder reliability (double-coded estimate parts),Evasion type,413,Krippendorff alpha (nominal),0.7040505186073984,0.6248764750423139,0.7824723665261641,
+A. Human inter-coder reliability (double-coded estimate parts),Request type,413,% agreement,87.16707021791767,,,
+A. Human inter-coder reliability (double-coded estimate parts),Request type,413,Cohen's kappa,0.7741283059364971,,,
+A. Human inter-coder reliability (double-coded estimate parts),Request type,413,Krippendorff alpha (nominal),0.7721148884939517,0.6952296059061938,0.8404624086521226,
+A. Human inter-coder reliability (double-coded estimate parts),Evasion type (both coders non-FULL),97,Cohen's kappa,0.8034049452776652,,,
+A. Human inter-coder reliability (double-coded estimate parts),Evasion type (both coders non-FULL),97,Krippendorff alpha (nominal),0.8039016460069092,0.6812637979749152,0.9068671721790592,
+B. M2 (Gemini) vs gold labels,M2 label vs gold label,1636,Accuracy,0.8679706601466992,0.8486163949318947,0.8854572094318408,
+B. M2 (Gemini) vs gold labels,M2 label vs gold label,1636,Cohen's kappa,0.710828703059663,0.6683809139411382,0.7487577512441277,
+B. M2 (Gemini) vs gold labels,M2 label vs gold label,1636,Linear-weighted kappa,0.756116853626303,,,
+B. M2 (Gemini) vs gold labels,M2 label vs gold label,1636,Macro-F1,0.7865155527854512,,,
+B. M2 (Gemini) vs gold labels,M2 label vs gold label,1636,Design-weighted accuracy,0.8756737655251489,,,
+B. M2 (Gemini) vs gold labels,M2 label vs gold label,1636,Design-weighted kappa,0.7090163186010077,,,
+B. M2 (Gemini) vs gold labels,M2 evasion type vs gold (gold non-FULL parts),507,Accuracy,0.6607495069033531,,,share of gold non-FULL parts with the same evasion type
+B. M2 (Gemini) vs gold labels,"M2 vs gold, gold = NONE",206,Share labelled correctly by M2,0.6504854368932039,,,per-class recall
+B. M2 (Gemini) vs gold labels,"M2 vs gold, gold = PARTIAL",301,Share labelled correctly by M2,0.6843853820598007,,,per-class recall
+B. M2 (Gemini) vs gold labels,"M2 vs gold, gold = FULL",1129,Share labelled correctly by M2,0.9565987599645704,,,per-class recall
+C. M1 (embedding similarity) vs gold labels,"M1 cosine, gold FULL vs NONE",1307,AUC,0.6415809210225454,0.6001426859076295,0.6821097454725261,
+C. M1 (embedding similarity) vs gold labels,"M1 cosine, gold FULL vs rest",1606,AUC,0.542949905550712,,,
+C. M1 (embedding similarity) vs gold labels,M1 cosine vs gold label score,1606,Spearman rho,0.09700858623791357,0.04810183556388973,0.15797472662123976,

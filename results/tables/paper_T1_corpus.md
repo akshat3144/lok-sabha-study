@@ -1,0 +1,13 @@
+### Table 1. Corpus description by Lok Sabha
+
+| Lok Sabha | Sessions | Questions | Starred questions | Unstarred questions | Parts | Starred parts | Unstarred parts | M2-labelled questions | % questions M2-labelled | M2-labelled parts | % parts M2-labelled | Gold parts | Gold questions |
+|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| 13th | 13 | 73,324 | 6,441 | 66,883 | 289,443 | 28,682 | 260,761 | 12,239 | 16.7 | 48,482 | 16.8 | 215 | 54 |
+| 14th | 14 | 66,371 | 6,193 | 60,178 | 267,897 | 28,557 | 239,340 | 11,088 | 16.7 | 44,675 | 16.7 | 198 | 51 |
+| 15th | 14 | 79,400 | 6,436 | 72,964 | 328,871 | 30,496 | 298,375 | 13,282 | 16.7 | 54,861 | 16.7 | 235 | 57 |
+| 16th | 16 | 79,138 | 6,399 | 72,739 | 312,569 | 26,526 | 286,043 | 13,238 | 16.7 | 52,433 | 16.8 | 242 | 58 |
+| 17th | 14 | 60,548 | 4,663 | 55,885 | 247,585 | 19,732 | 227,853 | 60,547 | 100.0 | 247,580 | 100.0 | 377 | 90 |
+| 18th | 7 | 34,720 | 2,776 | 31,944 | 147,073 | 12,153 | 134,920 | 34,683 | 99.9 | 146,979 | 99.9 | 369 | 90 |
+| Total | 78 | 393,501 | 32,908 | 360,593 | 1,593,438 | 146,146 | 1,447,292 | 145,077 | 36.9 | 595,010 | 37.3 | 1,636 | 400 |
+
+_Parts = parsed question parts (a question without parsed parts counts as one part). M2-labelled = Gemini M2 labels exist (LS17-18 census, 1-in-6 stratified sample of LS13-16, plus gold-only extras). Gold = human gold-label parts in the estimation strata (sanity stratum without answer text excluded), as used in the validation report._
