@@ -1,0 +1,5 @@
+hypothesis,baseline,baseline_p,n_variants,n_same_sign,min,min_variant,max,max_variant,sign_flips,n_p_lt_05
+H1,-0.003085658308725106,0.359607130100595,23,22,-0.014198735196967238,[14] M2 unweighted (ignores design weights; H1/H3),0.00044077218771126914,exclude all answers with an annexure,exclude all answers with an annexure,1
+H2,-0.0318456566242306,5.0853272571916354e-05,20,17,-0.04758294478948524,outcome: share of FULL parts,0.044903634912332624,outcome: M1 part coverage,outcome: M1 cosine; outcome: M1 part coverage; outcome: second embedding model,20
+H3,-0.028113357629281768,9.558321143142105e-08,22,17,-0.20925108970189701,"fractional logit (AME for H1,H2; logit scale H3,H4)",0.011911458796017082,outcome: M1 part coverage,"outcome: M1 cosine; outcome: M1 part coverage; outcome: second embedding model; [15a] M1 outcome, full corpus (unweighted; H1/H3); [15b] M1 outcome, M2 sample with design weights (H1/H3)",20
+H4,-0.026274522427218283,5.7228231375758296e-05,20,20,-0.12861384188139618,"fractional logit (AME for H1,H2; logit scale H3,H4)",-0.008652295358940063,exclude grouped answers,none,18
