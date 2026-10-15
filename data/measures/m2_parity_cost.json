@@ -1,0 +1,8 @@
+{
+ "usd": 0.9811837500000005,
+ "stopped_on_cap": false,
+ "model": "gemini-3.8-flash",
+ "price_mode": "sync (2x batch list price)",
+ "input_tokens": 996695.0,
+ "output_tokens": 62310.0
+}
