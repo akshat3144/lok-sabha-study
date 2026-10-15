@@ -1,0 +1,10 @@
+{
+ "usd": 0.4426652500000003,
+ "stopped_on_cap": false,
+ "model": "gemini-3.1-flash-lite",
+ "price_mode": "sync = 2x batch list price (BATCH_PRICES in m2_gemini.py)",
+ "input_tokens": 1344889.0,
+ "output_tokens": 70962.0,
+ "n_part_rows": 1636,
+ "n_invalid": 0
+}
