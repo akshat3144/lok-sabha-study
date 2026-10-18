@@ -1,0 +1,80 @@
+# .gitignore for github.com/akshat3144/lok-sabha-study (repository root = this lok_sabha folder)
+# Rule: publish code, codebook, derived statistics and labels. Never publish question or answer TEXT (copyright of the
+# Lok Sabha Secretariat), credentials, model weights or large intermediate files.
+
+# ---------------------------------------------------------------------------------------------------------------
+# 1. Corpus text and everything that contains it (copyright: Lok Sabha Secretariat)
+# ---------------------------------------------------------------------------------------------------------------
+# data/ is a whitelist: ignore everything, then re-include small files that hold no question or answer text.
+data/*
+!data/ref/
+!data/coding/
+!data/measures/
+
+# reference data (parties, coalitions, ministries): keep the derived tables and the lookup code; drop raw downloads
+data/ref/source/
+
+# coding: keep codebook, samples and gold LABELS; drop sheets, adjudication files and coder notes (they contain text)
+data/coding/*
+!data/coding/codebook_frozen.json
+!data/coding/codebook_v1.1_frozen.json
+!data/coding/CODEBOOK_v1.1_frozen_snapshot.md
+!data/coding/codebook_v1.1_frozen_snapshot.py
+!data/coding/gold_labels.csv
+!data/coding/gold_labels_pilot.csv
+!data/coding/main_sample.csv
+!data/coding/pilot_sample.csv
+!data/coding/sample_meta.json
+
+# measures: keep the public release and the sampling design; drop parquet (texts, prompts, model output, large files)
+data/measures/*
+!data/measures/release/
+!data/measures/m2_sample.csv
+!data/measures/m2_all_qids.csv
+!data/measures/m2_batch1_qids.csv
+!data/measures/m2_batch2_qids.csv
+!data/measures/topic_terms.csv
+!data/measures/topics_meta.json
+!data/measures/m1_scores_calibration_m1_cos.json
+!data/measures/m2_gold_alt_3.1fl_cost.json
+!data/measures/m2_parity_cost.json
+
+# GPU upload bundle and fine tuned models (contain corpus text / large weights)
+jarvis_upload/
+models/
+
+# ---------------------------------------------------------------------------------------------------------------
+# 2. Results: keep tables, figures and reports; drop bulky or row level intermediates
+# ---------------------------------------------------------------------------------------------------------------
+results/**/*.parquet
+results/synthetic/
+
+# ---------------------------------------------------------------------------------------------------------------
+# 3. Credentials and secrets (none are in the tree today; keep it that way)
+# ---------------------------------------------------------------------------------------------------------------
+.env
+.env.*
+*.pem
+*.key
+*credentials*.json
+application_default_credentials.json
+service-account*.json
+*.p12
+
+# ---------------------------------------------------------------------------------------------------------------
+# 4. Caches, logs, OS and editor files
+# ---------------------------------------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+*.log
+*.tmp
+*.part
+
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+.claude/
