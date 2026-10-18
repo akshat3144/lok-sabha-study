@@ -1,0 +1,5 @@
+sample,spec,n,LS17 vs LS13,LS18 vs LS13,slope per decade
+all questions,S0 none,144349,"-0.031 [-0.041, -0.021]","-0.080 [-0.097, -0.063]","-0.0263 [-0.0343, -0.0183]"
+all questions,S5 full controls,144349,"-0.016 [-0.026, -0.007]","-0.051 [-0.063, -0.038]","-0.0133 [-0.0204, -0.0062]"
+excluding deferral-formula questions,S0 none,143078,"-0.062 [-0.071, -0.053]","-0.112 [-0.129, -0.095]","-0.0405 [-0.0476, -0.0333]"
+excluding deferral-formula questions,S5 full controls,143078,"-0.049 [-0.058, -0.040]","-0.087 [-0.099, -0.075]","-0.0294 [-0.0355, -0.0233]"

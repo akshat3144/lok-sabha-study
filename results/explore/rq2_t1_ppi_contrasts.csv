@@ -1,0 +1,13 @@
+method,contrast,diff,z
+naive (on predictions),LS18 - LS13,"-0.080 [-0.099, -0.062]",-8.531916251290554
+naive (on predictions),LS17 - LS13,"-0.032 [-0.042, -0.022]",-6.29758356717566
+naive (on predictions),late - early,"-0.056 [-0.071, -0.041]",-7.384845952526568
+"gold only (Hajek, bootstrap)",LS18 - LS13,"-0.115 [-0.220, -0.010]",-2.153030397309397
+"gold only (Hajek, bootstrap)",LS17 - LS13,"-0.036 [-0.138, 0.067]",-0.6792403083007578
+"gold only (Hajek, bootstrap)",late - early,"-0.048 [-0.121, 0.025]",-1.2910814567910063
+PPI++ (lambda tuned),LS18 - LS13,"-0.093 [-0.135, -0.051]",-4.333763545378191
+PPI++ (lambda tuned),LS17 - LS13,"-0.034 [-0.073, 0.004]",-1.7460138038212685
+PPI++ (lambda tuned),late - early,"-0.060 [-0.096, -0.023]",-3.2187702254619506
+"simple PPI (lambda=1, bootstrap rectifier)",LS18 - LS13,"-0.092 [-0.136, -0.048]",-4.08817801407029
+"simple PPI (lambda=1, bootstrap rectifier)",LS17 - LS13,"-0.034 [-0.071, 0.002]",-1.8592411893311462
+"simple PPI (lambda=1, bootstrap rectifier)",late - early,"-0.060 [-0.094, -0.026]",-3.4392722650478986

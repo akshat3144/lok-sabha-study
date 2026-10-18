@@ -1,0 +1,5 @@
+model,k,LOO-CV RMSE
+cubic + 3 govt changes: jumps only,7,0.013621099730452776
+cubic + 3 govt changes: jumps + slope changes,10,0.01378417060823488
+cubic + 2 placebo dates: jumps only,6,0.012981572876141528
+cubic + 2 placebo dates: jumps + slope changes,8,0.013064274833177654

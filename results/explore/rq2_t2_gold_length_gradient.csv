@@ -1,0 +1,10 @@
+variable,outcome,coef [95% CI]
+log_qlen,human gold,"-0.160 [-0.271, -0.053]"
+log_qlen,M2 (same questions),"-0.166 [-0.281, -0.049]"
+log_qlen,M2 minus gold,"-0.007 [-0.046, 0.037]"
+n_parts,human gold,"0.016 [-0.031, 0.061]"
+n_parts,M2 (same questions),"0.026 [-0.021, 0.072]"
+n_parts,M2 minus gold,"0.011 [-0.010, 0.030]"
+starred,human gold,"0.056 [-0.009, 0.121]"
+starred,M2 (same questions),"0.049 [-0.017, 0.115]"
+starred,M2 minus gold,"-0.007 [-0.032, 0.019]"

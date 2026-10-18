@@ -1,0 +1,5 @@
+joint test (all break terms = 0),Wald chi2,df,p (F approx)
+3 govt changes: jumps only (on top of cubic),7.269838907259359,3,0.07288225006277431
+3 govt changes: jumps + slope changes (on top of cubic),16.861954961678126,6,0.016744368759133873
+2 placebo dates: jumps only (on top of cubic),12.387109989418478,2,0.0032963230980469125
+2 placebo dates: jumps + slope changes (on top of cubic),13.616383808079703,4,0.01331302894608081

@@ -1,0 +1,7 @@
+method,slope per decade [95% CI]
+naive (on predictions),"-0.0266 [-0.0347, -0.0186]"
+"gold only (HT, lambda=0)","-0.0108 [-0.1416, 0.1200]"
+PPI++ (lambda tuned),"-0.0268 [-0.0442, -0.0094]"
+naive (on predictions),"-0.0266 [-0.0347, -0.0186]"
+"gold only (HT, lambda=0)","-0.0108 [-0.1416, 0.1200]"
+PPI (lambda=1.0),"-0.0273 [-0.0451, -0.0094]"

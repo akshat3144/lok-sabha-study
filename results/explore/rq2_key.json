@@ -1,0 +1,454 @@
+{
+ "gold_parts_used": 1636,
+ "bias_q_homog_p": 0.9574397766775699,
+ "bias_part_homog_p": 0.9063613854399931,
+ "gold slope /decade": "-0.024 [-0.061, 0.017]",
+ "M2 slope /decade (gold q)": "-0.024 [-0.060, 0.016]",
+ "bias slope /decade": "0.000 [-0.014, 0.015]",
+ "ppi_slope naive (on predictions)": "-0.0266 [-0.0347, -0.0186]",
+ "ppi_slope gold only (HT, lambda=0)": "-0.0108 [-0.1416, 0.1200]",
+ "ppi_slope PPI++ (lambda tuned)": "-0.0268 [-0.0442, -0.0094]",
+ "gold_length_gradient": {
+  "log_qlen|human gold": "-0.160 [-0.271, -0.053]",
+  "log_qlen|M2 (same questions)": "-0.166 [-0.281, -0.049]",
+  "log_qlen|M2 minus gold": "-0.007 [-0.046, 0.037]",
+  "n_parts|human gold": "0.016 [-0.031, 0.061]",
+  "n_parts|M2 (same questions)": "0.026 [-0.021, 0.072]",
+  "n_parts|M2 minus gold": "0.011 [-0.010, 0.030]",
+  "starred|human gold": "0.056 [-0.009, 0.121]",
+  "starred|M2 (same questions)": "0.049 [-0.017, 0.115]",
+  "starred|M2 minus gold": "-0.007 [-0.032, 0.019]"
+ },
+ "reg_ls18_S0": "-0.080 [-0.097, -0.063]",
+ "reg_ls18_S5": "-0.051 [-0.063, -0.038]",
+ "reg_dec_S0": "-0.0263 [-0.0343, -0.0183]",
+ "reg_dec_S5": "-0.0133 [-0.0204, -0.0062]",
+ "pct_surv_S5_LS18": 63.36052935131302,
+ "pct_surv_S5_dec": 50.617553264115145,
+ "nonfull_rate": {
+  "LS13": "20.3 [20.0, 20.6]",
+  "LS14": "19.1 [18.1, 20.0]",
+  "LS15": "21.7 [21.2, 22.3]",
+  "LS16": "24.0 [23.5, 24.5]",
+  "LS17": "27.3 [26.4, 28.3]",
+  "LS18": "35.7 [33.4, 38.0]",
+  "early (LS13-14)": "19.8 [19.3, 20.2]",
+  "middle (LS15-16)": "22.8 [22.4, 23.2]",
+  "late (LS17-18)": "30.4 [29.2, 31.7]"
+ },
+ "contrib_LS18_LS13": {
+  "GENERIC": "8.61 [7.81, 9.44]",
+  "INCOMPLETE": "8.50 [7.17, 9.92]",
+  "DIFFERENT_QUESTION": "1.61 [1.40, 1.81]",
+  "NOT_MAINTAINED": "0.79 [0.60, 0.99]",
+  "JURISDICTION": "1.12 [0.91, 1.32]",
+  "DEFERRAL": "-4.66 [-5.15, -4.25]",
+  "OTHER": "-0.66 [-0.79, -0.51]",
+  "PARTIAL": "14.67 [12.82, 16.53]",
+  "NONE": "0.65 [-0.16, 1.38]",
+  "ALL non-FULL": "15.31 [13.07, 17.70]"
+ },
+ "contrib_LS17_LS13": {
+  "GENERIC": "4.57 [3.86, 5.34]",
+  "INCOMPLETE": "3.97 [3.64, 4.28]",
+  "DIFFERENT_QUESTION": "1.48 [1.13, 1.99]",
+  "NOT_MAINTAINED": "1.00 [0.80, 1.20]",
+  "JURISDICTION": "0.90 [0.75, 1.05]",
+  "DEFERRAL": "-4.52 [-5.02, -4.09]",
+  "OTHER": "-0.42 [-0.57, -0.27]",
+  "PARTIAL": "8.24 [7.60, 8.93]",
+  "NONE": "-1.26 [-2.02, -0.51]",
+  "ALL non-FULL": "6.98 [5.94, 8.02]"
+ },
+ "contrib_late_early": {
+  "GENERIC": "5.92 [5.24, 6.56]",
+  "INCOMPLETE": "5.59 [4.93, 6.30]",
+  "DIFFERENT_QUESTION": "1.48 [1.26, 1.79]",
+  "NOT_MAINTAINED": "0.89 [0.74, 1.03]",
+  "JURISDICTION": "1.00 [0.86, 1.13]",
+  "DEFERRAL": "-3.73 [-4.05, -3.42]",
+  "OTHER": "-0.47 [-0.57, -0.37]",
+  "PARTIAL": "10.39 [9.43, 11.37]",
+  "NONE": "0.28 [-0.31, 0.92]",
+  "ALL non-FULL": "10.67 [9.33, 12.09]"
+ },
+ "share_nonfull": {
+  "LS13": {
+   "GENERIC": "32.2 [30.8, 33.7]",
+   "INCOMPLETE": "23.5 [22.4, 24.5]",
+   "DIFFERENT_QUESTION": "6.7 [5.9, 7.7]",
+   "NOT_MAINTAINED": "5.7 [4.9, 6.5]",
+   "JURISDICTION": "3.5 [3.0, 3.9]",
+   "DEFERRAL": "23.1 [21.1, 25.2]",
+   "OTHER": "5.3 [4.6, 6.0]"
+  },
+  "LS14": {
+   "GENERIC": "36.0 [35.0, 37.4]",
+   "INCOMPLETE": "25.7 [24.2, 27.4]",
+   "DIFFERENT_QUESTION": "7.7 [7.1, 8.3]",
+   "NOT_MAINTAINED": "6.4 [5.8, 7.2]",
+   "JURISDICTION": "3.6 [2.9, 4.2]",
+   "DEFERRAL": "15.3 [12.8, 17.5]",
+   "OTHER": "5.2 [4.6, 5.9]"
+  },
+  "LS15": {
+   "GENERIC": "34.9 [33.4, 36.6]",
+   "INCOMPLETE": "29.3 [28.0, 30.8]",
+   "DIFFERENT_QUESTION": "7.3 [6.6, 7.9]",
+   "NOT_MAINTAINED": "9.6 [9.0, 10.2]",
+   "JURISDICTION": "4.5 [4.0, 5.0]",
+   "DEFERRAL": "10.4 [9.3, 11.7]",
+   "OTHER": "4.1 [3.7, 4.4]"
+  },
+  "LS16": {
+   "GENERIC": "34.0 [33.1, 35.0]",
+   "INCOMPLETE": "34.6 [33.9, 35.5]",
+   "DIFFERENT_QUESTION": "7.5 [6.7, 8.2]",
+   "NOT_MAINTAINED": "10.6 [9.9, 11.3]",
+   "JURISDICTION": "5.6 [4.9, 6.2]",
+   "DEFERRAL": "4.1 [3.1, 5.1]",
+   "OTHER": "3.5 [3.2, 3.9]"
+  },
+  "LS17": {
+   "GENERIC": "40.7 [39.6, 41.9]",
+   "INCOMPLETE": "32.0 [31.2, 32.7]",
+   "DIFFERENT_QUESTION": "10.4 [9.6, 11.9]",
+   "NOT_MAINTAINED": "7.9 [7.4, 8.4]",
+   "JURISDICTION": "5.9 [5.4, 6.4]",
+   "DEFERRAL": "0.6 [0.3, 0.9]",
+   "OTHER": "2.4 [2.1, 2.7]"
+  },
+  "LS18": {
+   "GENERIC": "42.5 [41.7, 43.4]",
+   "INCOMPLETE": "37.2 [35.6, 38.7]",
+   "DIFFERENT_QUESTION": "8.4 [7.8, 9.1]",
+   "NOT_MAINTAINED": "5.5 [5.2, 5.8]",
+   "JURISDICTION": "5.1 [4.9, 5.3]",
+   "DEFERRAL": "0.1 [0.0, 0.1]",
+   "OTHER": "1.2 [1.1, 1.3]"
+  },
+  "early (LS13-14)": {
+   "GENERIC": "34.0 [33.1, 35.0]",
+   "INCOMPLETE": "24.5 [23.6, 25.4]",
+   "DIFFERENT_QUESTION": "7.2 [6.6, 7.8]",
+   "NOT_MAINTAINED": "6.0 [5.5, 6.6]",
+   "JURISDICTION": "3.5 [3.1, 4.0]",
+   "DEFERRAL": "19.5 [18.0, 20.9]",
+   "OTHER": "5.3 [4.8, 5.7]"
+  },
+  "middle (LS15-16)": {
+   "GENERIC": "34.5 [33.5, 35.4]",
+   "INCOMPLETE": "32.0 [31.2, 32.9]",
+   "DIFFERENT_QUESTION": "7.4 [6.9, 7.9]",
+   "NOT_MAINTAINED": "10.1 [9.6, 10.5]",
+   "JURISDICTION": "5.0 [4.6, 5.4]",
+   "DEFERRAL": "7.2 [6.4, 8.0]",
+   "OTHER": "3.8 [3.6, 4.1]"
+  },
+  "late (LS17-18)": {
+   "GENERIC": "41.5 [40.7, 42.3]",
+   "INCOMPLETE": "34.3 [33.3, 35.2]",
+   "DIFFERENT_QUESTION": "9.5 [9.0, 10.4]",
+   "NOT_MAINTAINED": "6.8 [6.4, 7.3]",
+   "JURISDICTION": "5.6 [5.3, 5.9]",
+   "DEFERRAL": "0.4 [0.2, 0.6]",
+   "OTHER": "1.9 [1.7, 2.1]"
+  }
+ },
+ "kitagawa": {
+  "early": 19.756052319022128,
+  "late": 30.430984348850732,
+  "comp": -0.37525047502495146,
+  "within": 11.05018250485355
+ },
+ "gold_change": {
+  "human gold|GENERIC": "0.3 [-4.9, 5.4]",
+  "human gold|INCOMPLETE": "6.6 [3.6, 9.8]",
+  "human gold|DIFFERENT_QUESTION": "2.0 [-1.2, 5.1]",
+  "human gold|NOT_MAINTAINED": "0.8 [-1.0, 2.5]",
+  "human gold|JURISDICTION": "2.6 [1.1, 4.5]",
+  "human gold|DEFERRAL": "-4.0 [-10.5, 0.8]",
+  "human gold|OTHER": "2.4 [0.6, 4.6]",
+  "human gold|nonFULL": "10.8 [2.3, 19.2]",
+  "M2 on same parts|GENERIC": "5.4 [0.5, 10.2]",
+  "M2 on same parts|INCOMPLETE": "4.2 [0.4, 7.9]",
+  "M2 on same parts|DIFFERENT_QUESTION": "0.9 [-1.5, 3.1]",
+  "M2 on same parts|NOT_MAINTAINED": "0.8 [-1.1, 2.5]",
+  "M2 on same parts|JURISDICTION": "0.7 [0.1, 1.3]",
+  "M2 on same parts|DEFERRAL": "-4.0 [-10.5, 0.8]",
+  "M2 on same parts|OTHER": "1.3 [0.2, 2.7]",
+  "M2 on same parts|nonFULL": "9.2 [0.6, 17.2]"
+ },
+ "deferral_marker": {
+  "13": {
+   "n questions": 72987,
+   "% marker A": 4.7734528066642,
+   "% marker B": 4.032224916765999,
+   "% both (formula)": 3.917135928316001,
+   "M2 sample: % questions with any DEFERRAL part (weighted)": 5.111432845915301,
+   "M2 sample: % formula questions (weighted)": 4.166410068595604,
+   "among formula Qs: % with any M2 DEFERRAL (weighted)": 99.8028014670163
+  },
+  "14": {
+   "n questions": 65969,
+   "% marker A": 3.336415589140354,
+   "% marker B": 2.6982370507359517,
+   "% both (formula)": 2.617896284618533,
+   "M2 sample: % questions with any DEFERRAL part (weighted)": 3.4280727832956557,
+   "M2 sample: % formula questions (weighted)": 2.6460856470184235,
+   "among formula Qs: % with any M2 DEFERRAL (weighted)": 99.6564360125844
+  },
+  "15": {
+   "n questions": 78749,
+   "% marker A": 2.742891973231406,
+   "% marker B": 2.054629265133525,
+   "% both (formula)": 2.016533543283089,
+   "M2 sample: % questions with any DEFERRAL part (weighted)": 2.770828812026694,
+   "M2 sample: % formula questions (weighted)": 1.9411410594796947,
+   "among formula Qs: % with any M2 DEFERRAL (weighted)": 100.0
+  },
+  "16": {
+   "n questions": 78454,
+   "% marker A": 1.2618859459046066,
+   "% marker B": 0.8986157493563107,
+   "% both (formula)": 0.884594794401815,
+   "M2 sample: % questions with any DEFERRAL part (weighted)": 1.262796309445972,
+   "M2 sample: % formula questions (weighted)": 0.9259974763322791,
+   "among formula Qs: % with any M2 DEFERRAL (weighted)": 100.0
+  },
+  "17": {
+   "n questions": 60307,
+   "% marker A": 0.3299782778118626,
+   "% marker B": 0.1542109539522775,
+   "% both (formula)": 0.15089458935115327,
+   "M2 sample: % questions with any DEFERRAL part (weighted)": 0.2520437096854428,
+   "M2 sample: % formula questions (weighted)": 0.15089458935115327,
+   "among formula Qs: % with any M2 DEFERRAL (weighted)": 100.0
+  },
+  "18": {
+   "n questions": 34674,
+   "% marker A": 0.1038241910365115,
+   "% marker B": 0.017304031839418584,
+   "% both (formula)": 0.017304031839418584,
+   "M2 sample: % questions with any DEFERRAL part (weighted)": 0.03460806367883717,
+   "M2 sample: % formula questions (weighted)": 0.017304031839418584,
+   "among formula Qs: % with any M2 DEFERRAL (weighted)": 100.0
+  }
+ },
+ "deferral_agree": {
+  "share_defer_with_formula": 0.7639297533461388,
+  "share_formula_with_defer": 0.9983199445822107
+ },
+ "excl_deferral": [
+  {
+   "sample": "all questions",
+   "spec": "S0 none",
+   "n": 144349,
+   "LS17 vs LS13": "-0.031 [-0.041, -0.021]",
+   "LS18 vs LS13": "-0.080 [-0.097, -0.063]",
+   "slope per decade": "-0.0263 [-0.0343, -0.0183]"
+  },
+  {
+   "sample": "all questions",
+   "spec": "S5 full controls",
+   "n": 144349,
+   "LS17 vs LS13": "-0.016 [-0.026, -0.007]",
+   "LS18 vs LS13": "-0.051 [-0.063, -0.038]",
+   "slope per decade": "-0.0133 [-0.0204, -0.0062]"
+  },
+  {
+   "sample": "excluding deferral-formula questions",
+   "spec": "S0 none",
+   "n": 143078,
+   "LS17 vs LS13": "-0.062 [-0.071, -0.053]",
+   "LS18 vs LS13": "-0.112 [-0.129, -0.095]",
+   "slope per decade": "-0.0405 [-0.0476, -0.0333]"
+  },
+  {
+   "sample": "excluding deferral-formula questions",
+   "spec": "S5 full controls",
+   "n": 143078,
+   "LS17 vs LS13": "-0.049 [-0.058, -0.040]",
+   "LS18 vs LS13": "-0.087 [-0.099, -0.075]",
+   "slope per decade": "-0.0294 [-0.0355, -0.0233]"
+  }
+ ],
+ "hinge": {
+  "kappa": 2018.2999999999906,
+  "kappa_ci": [
+   2016.899999999992,
+   2019.6524999999895
+  ],
+  "slope_after": -0.01076982637089754,
+  "loo": 0.01460641436180873
+ },
+ "supF": {
+  "F": 47.41911587209691,
+  "t": 2020.93925134777,
+  "p": 0.0
+ },
+ "seg": [
+  {
+   "series": "unadjusted",
+   "break": "2004 (NDA-V3 -> UPA-1)",
+   "jump [95% CI]": "0.0206 [-0.0068, 0.0479]",
+   "slope change/yr [95% CI]": "0.0053 [-0.0063, 0.0170]",
+   "pre-trend extrapolation gap [95% CI]": "0.0328 [-0.0017, 0.0673]"
+  },
+  {
+   "series": "unadjusted",
+   "break": "2014 (UPA-2 -> NDA-M1)",
+   "jump [95% CI]": "0.0045 [-0.0100, 0.0191]",
+   "slope change/yr [95% CI]": "-0.0010 [-0.0058, 0.0039]",
+   "pre-trend extrapolation gap [95% CI]": "0.0023 [-0.0169, 0.0214]"
+  },
+  {
+   "series": "unadjusted",
+   "break": "2024 (NDA-M2 -> NDA-M3)",
+   "jump [95% CI]": "0.0067 [-0.0315, 0.0448]",
+   "slope change/yr [95% CI]": "-0.0161 [-0.0328, 0.0005]",
+   "pre-trend extrapolation gap [95% CI]": "-0.0097 [-0.0404, 0.0211]"
+  },
+  {
+   "series": "unadjusted",
+   "break": "2009 (UPA-1 -> UPA-2, same govt)",
+   "jump [95% CI]": "-0.0154 [-0.0355, 0.0046]",
+   "slope change/yr [95% CI]": "-0.0030 [-0.0096, 0.0036]",
+   "pre-trend extrapolation gap [95% CI]": "-0.0223 [-0.0561, 0.0115]"
+  },
+  {
+   "series": "unadjusted",
+   "break": "2019 (NDA-M1 -> NDA-M2, same govt)",
+   "jump [95% CI]": "0.0055 [-0.0132, 0.0241]",
+   "slope change/yr [95% CI]": "-0.0064 [-0.0160, 0.0031]",
+   "pre-trend extrapolation gap [95% CI]": "-0.0106 [-0.0282, 0.0070]"
+  },
+  {
+   "series": "adjusted",
+   "break": "2004 (NDA-V3 -> UPA-1)",
+   "jump [95% CI]": "0.0127 [-0.0076, 0.0331]",
+   "slope change/yr [95% CI]": "0.0025 [-0.0052, 0.0103]",
+   "pre-trend extrapolation gap [95% CI]": "0.0185 [-0.0039, 0.0410]"
+  },
+  {
+   "series": "adjusted",
+   "break": "2014 (UPA-2 -> NDA-M1)",
+   "jump [95% CI]": "-0.0022 [-0.0179, 0.0134]",
+   "slope change/yr [95% CI]": "-0.0043 [-0.0094, 0.0007]",
+   "pre-trend extrapolation gap [95% CI]": "-0.0125 [-0.0311, 0.0061]"
+  },
+  {
+   "series": "adjusted",
+   "break": "2024 (NDA-M2 -> NDA-M3)",
+   "jump [95% CI]": "0.0048 [-0.0291, 0.0387]",
+   "slope change/yr [95% CI]": "-0.0028 [-0.0173, 0.0117]",
+   "pre-trend extrapolation gap [95% CI]": "0.0019 [-0.0264, 0.0303]"
+  },
+  {
+   "series": "adjusted",
+   "break": "2009 (UPA-1 -> UPA-2, same govt)",
+   "jump [95% CI]": "-0.0116 [-0.0298, 0.0067]",
+   "slope change/yr [95% CI]": "0.0021 [-0.0040, 0.0081]",
+   "pre-trend extrapolation gap [95% CI]": "-0.0069 [-0.0371, 0.0234]"
+  },
+  {
+   "series": "adjusted",
+   "break": "2019 (NDA-M1 -> NDA-M2, same govt)",
+   "jump [95% CI]": "0.0002 [-0.0184, 0.0189]",
+   "slope change/yr [95% CI]": "-0.0069 [-0.0160, 0.0023]",
+   "pre-trend extrapolation gap [95% CI]": "-0.0169 [-0.0342, 0.0005]"
+  }
+ ],
+ "joint": [
+  {
+   "joint test (all break terms = 0)": "3 govt changes: jumps only (on top of cubic)",
+   "Wald chi2": 7.269838907259359,
+   "df": 3,
+   "p (F approx)": 0.07288225006277431
+  },
+  {
+   "joint test (all break terms = 0)": "3 govt changes: jumps + slope changes (on top of cubic)",
+   "Wald chi2": 16.861954961678126,
+   "df": 6,
+   "p (F approx)": 0.016744368759133873
+  },
+  {
+   "joint test (all break terms = 0)": "2 placebo dates: jumps only (on top of cubic)",
+   "Wald chi2": 12.387109989418478,
+   "df": 2,
+   "p (F approx)": 0.0032963230980469125
+  },
+  {
+   "joint test (all break terms = 0)": "2 placebo dates: jumps + slope changes (on top of cubic)",
+   "Wald chi2": 13.616383808079703,
+   "df": 4,
+   "p (F approx)": 0.01331302894608081
+  }
+ ],
+ "modelcmp": [
+  {
+   "model": "linear",
+   "k": 2,
+   "R2": 0.5718475568291683,
+   "AIC": -611.3934525347418,
+   "LOO-CV RMSE": 0.020051303054962638,
+   "resid SD": 0.019607520629815127
+  },
+  {
+   "model": "quadratic",
+   "k": 3,
+   "R2": 0.7849046060779405,
+   "AIC": -663.0884719969695,
+   "LOO-CV RMSE": 0.014500812691360587,
+   "resid SD": 0.013989918581712639
+  },
+  {
+   "model": "cubic",
+   "k": 4,
+   "R2": 0.8107775758637353,
+   "AIC": -671.0848312519086,
+   "LOO-CV RMSE": 0.013789001148014603,
+   "resid SD": 0.013209935727564162
+  },
+  {
+   "model": "linear + jumps & slope changes at 3 govt changes",
+   "k": 8,
+   "R2": 0.8363064676802012,
+   "AIC": -674.389152551651,
+   "LOO-CV RMSE": 0.013693644219674415,
+   "resid SD": 0.012632723880234882
+  },
+  {
+   "model": "linear + jumps only at 3 govt changes",
+   "k": 5,
+   "R2": 0.8031018169396946,
+   "AIC": -665.9832714288805,
+   "LOO-CV RMSE": 0.014243750582253994,
+   "resid SD": 0.013567183146869952
+  },
+  {
+   "model": "linear + jumps & slope changes at 2 placebo dates",
+   "k": 6,
+   "R2": 0.8281862183490807,
+   "AIC": -674.6127629549843,
+   "LOO-CV RMSE": 0.013438608260014952,
+   "resid SD": 0.012761244030566379
+  },
+  {
+   "model": "linear + jumps only at 2 placebo dates",
+   "k": 4,
+   "R2": 0.6503613406031634,
+   "AIC": -623.1946214246925,
+   "LOO-CV RMSE": 0.018525895376635997,
+   "resid SD": 0.017956600758521776
+  },
+  {
+   "model": "linear + jumps at all 5 LS boundaries (jumps only)",
+   "k": 7,
+   "R2": 0.8064784903582188,
+   "AIC": -663.3325224990257,
+   "LOO-CV RMSE": 0.014445976664545699,
+   "resid SD": 0.013638471821362503
+  }
+ ]
+}
